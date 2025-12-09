@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/IntroScene.unity
+    guid: d6b52acbfcdcf4554abac67b9b5d1473
+  - enabled: 0
+    path: Assets/Anatomy Study .unity
+    guid: aa1255ce68794461298bde0af2470dd3
+  - enabled: 0
+    path: Assets/AnatomyStudy.unity
+    guid: de88fc21e40014e2d9c1b4bb97b6a53a
+  - enabled: 0
+    path: "Assets/Samples/Meta XR Interaction \u200BSDK/81.0.0/Tools/HandGrabPoseTool.unity"
+    guid: 8d12702353d5fd74ba260506070081fd
+  - enabled: 0
+    path: Assets/intro scene .unity
+    guid: f67b091a760e442298d02e96bf7ffbba
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: d4dcdb2e810174cc687292b26df23e17, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: aa515693ac9d84a68babc7b0c1eaf111, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: be0cb1715eae4472693711f791972a62, type: 2}
+  m_UseUCBPForAssetBundles: 0

@@ -1,0 +1,2634 @@
+﻿#include "pch-cpp.hpp"
+
+
+
+
+
+
+struct Action_1_tD5FA47F50DE964EA177B87ABF2576790239219A3;
+struct Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E;
+struct Action_2_t6A27AF0A3585FFCF87D39ADE472BCFD2F2930F19;
+struct Action_2_tB79528C85CFEF7DFF52C575DDAA398D2FE6BC333;
+struct Action_3_tE646D5EE2107669AE49025C0E3DC04C831ACCAE0;
+struct Dictionary_2_t46B2DB028096FA2B828359E52F37F3105A83AD83;
+struct Func_3_t42E9F5CDEF4CF174C35D943F427EF585FE829937;
+struct List_1_tD2FA3273746E404D72561E8324608D18B52B533E;
+struct List_1_tA239CB83DE5615F348BB0507E45F490F4F7C9A8D;
+struct List_1_tF9F2510E1F31EAAB4FF93BF5D2FD123A1BA401D8;
+struct Action_1U5BU5D_tDDE8F0E5F72CDCC3C9228F7F50484C0B41BAF4E0;
+struct Action_1U5BU5D_tB846E6FE2326CCD34124D1E5D70117C9D33DEE76;
+struct GraphicsFormatU5BU5DU5BU5D_t1424BD937A890524D2A66FF39E61DEB0F10FE0A2;
+struct ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031;
+struct CameraU5BU5D_t1506EBA524A07AD1066D6DD4D7DFC6721F1AC26B;
+struct CharU5BU5D_t799905CF001DD5F13F7DBB310181FC4D8B7D0AAB;
+struct DelegateU5BU5D_tC5AB7E8F745616680F337909D3A8E6C722CDF771;
+struct InputActionMapU5BU5D_t4B352E8DA73976FEDA107E35E81FB5BE6838C045;
+struct InputBindingU5BU5D_t7E47E87B9CAE12B6F6A0659008B425C58D84BB57;
+struct InputControlSchemeU5BU5D_tAE603126FBD4D6B8F67EA6F8CFA531A646C63D86;
+struct InputDeviceU5BU5D_tA9AEFC6AF63557D3D5DCFB2B26DDA6F63147D548;
+struct Int32U5BU5D_t19C97395396A72ECAF310612F0760F165060314C;
+struct ObjectU5BU5D_t8061030B0A12A55D5AD8652A20C922FE99450918;
+struct PlayerInputU5BU5D_t68A8570E76E18996F872BEEBA1C81ED2E4671080;
+struct ScriptableRendererU5BU5D_t9B15C048BCE03A67E830F1C79989B6A3E43788E6;
+struct ScriptableRendererDataU5BU5D_tC674C147618C92B68DB64ECFDC847C8A941C6169;
+struct StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248;
+struct ParameterOverrideU5BU5D_tC408277D7E98D32E4B0AEFA1E2EDDB74790897EE;
+struct ActionEventU5BU5D_t45BD340B9AA6F3287339EA686E3FE0A47801E88F;
+struct Behaviour_t01970CFBBA658497AE30F311C447DB0440BAB7FA;
+struct Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184;
+struct CameraManagement_tA3FBE641F8AA810B391B4440A1565567287F2967;
+struct CancellationTokenSource_tAAE1E0033BCFC233801F8CB4CED5C852B350CB7B;
+struct CharacterController_t847C1A2719F60547D7D6077B648D6CE2D1EF3A6A;
+struct CheckAssignedRenderPipelineAsset_t318BCD72D1B5920A1F4ECE759B381F35970D5918;
+struct Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3;
+struct DelegateData_t9B286B493293CD2D23A5B2B5EF0E5B1324C2B77E;
+struct FirstPersonController_t1E56BAC4D9CC397A7A3053A6696BCDB6588E0C6C;
+struct GameObject_t76FEDD663AB33C991A9C9A23129337651094216F;
+struct InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD;
+struct InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D;
+struct InputActionMap_tFCE82E0E014319D4DED9F8962B06655DD0420A09;
+struct InputActionState_t780948EA293BAA800AD8699518B58B59FFB8A700;
+struct InputSystemUIInputModule_tB7D5B53F656D196BB5AF712FA16FEE22B2EE0C58;
+struct InputValue_t4F053958518BDF6FD85C55F31B0597C9521B4231;
+struct MethodInfo_t;
+struct MonoBehaviour_t532A11E69716D348D8AA7F854AFCBFCB8AD17F71;
+struct MotionVectorsPersistentData_t077A3BA28B75576C897E6C794FE0ABF9DB8EBBBB;
+struct Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C;
+struct PlayerInput_t5155B6508FE1937D9B2380CBA545FABE36A6F81F;
+struct ProbeVolumeSceneData_t29FD126D36ED1E093C2EBBFB3F248DD5E2A86D90;
+struct RenderPipelineAsset_t5F9BF815BF931E1314B184E7F9070FB649C7054E;
+struct ScriptableRendererData_t9005CE645D4881FA4431E52EDC7678203632CAA7;
+struct Shader_tADC867D36B7876EE22427FAA2CE485105F4EE692;
+struct String_t;
+struct Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1;
+struct UnitySourceGeneratedAssemblyMonoScriptTypes_v1_t45A7CB074F06D33E3A4D02C3DD47861CB88C4658;
+struct UniversalAdditionalCameraData_t57B5D0F93C2D506E618E23187302C0FADE813B93;
+struct UniversalCameraHistory_t15D275DAE9AD5B608CE533D0FCE0884F07BB1E80;
+struct UniversalRenderPipelineAsset_tE8A9AA6F030CC3B558CEA2EB54FFF4FC58CA6232;
+struct Void_t4861ACF8F4594C3437BB48B6E56783494B843915;
+struct VolumeProfile_t9B5F2005F575A710F38A124EF81A6228CCACACE1;
+struct VolumeStack_t5DE94743BDB63D97EF5587DBDAE46468233F36E8;
+struct CameraCallback_t844E527BFE37BC0495E7F67993E43C07642DA9DD;
+struct ControlsChangedEvent_t24A5BA4AB8034B3C662F956A4C85ECC6B8332B48;
+struct DeviceLostEvent_tDD8832F14B7DA15569261EFEBC47E67CF4E1B9D4;
+struct DeviceRegainedEvent_t24153E8876417F010AA4C0C1C25D6CB792EC01D1;
+struct TextureResources_t8FB6A098EBF3C08BF1BD5EA926743C0FA595202B;
+
+IL2CPP_EXTERN_C RuntimeClass* Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* GraphicsSettings_t01785CE5CB5C5105CB527619AF4D74BEF417EF1A_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeField* U3CPrivateImplementationDetailsU3E_t004D303EC2443B3198D2727D8C1AE9CE8C7A003E____818CD1151FB13B32010C82427512B9D7ABC980F0F40ED49BB7857359A2F91ABE_FieldInfo_var;
+IL2CPP_EXTERN_C RuntimeField* U3CPrivateImplementationDetailsU3E_t004D303EC2443B3198D2727D8C1AE9CE8C7A003E____F6A592B042C70D649F4FCF062E7F8A3BC423C7C58CFF26579159BEB1A3BBE224_FieldInfo_var;
+IL2CPP_EXTERN_C String_t* _stringLiteral378F2A2277727E3F33599E270749A10E7C2B55E1;
+IL2CPP_EXTERN_C String_t* _stringLiteral6F85448E679CAD22396A72B854B6AFC5FC004C64;
+IL2CPP_EXTERN_C String_t* _stringLiteral9326EBA36A099451A31E035203F1DE1280B48D3C;
+IL2CPP_EXTERN_C String_t* _stringLiteralCA37D11771E9A64F0FBD37ABECEB28243F0A9E8E;
+IL2CPP_EXTERN_C String_t* _stringLiteralD5A6D1524A9CAA0C1FE48522BD4B250F6A827CC8;
+IL2CPP_EXTERN_C String_t* _stringLiteralFBA9CEB43D14830BEAAF5F87C6AAAD1A8A36A67F;
+IL2CPP_EXTERN_C const RuntimeMethod* CallbackContext_ReadValue_TisVector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7_m454ADEAE74A5A469E011CF78D6303A1034659830_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* CameraManagement_OnFireCanceled_m8131E493A84DA6BDCBD59C56793EAA6A75FD5744_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* CameraManagement_OnFirePerformed_mF86BD0210C71F20BE07FD0F9A7D79C01B4048EC2_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* Component_GetComponent_TisCharacterController_t847C1A2719F60547D7D6077B648D6CE2D1EF3A6A_m96B48A644EDC97C5C82F154D1FEA551B2E392040_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* Component_GetComponent_TisPlayerInput_t5155B6508FE1937D9B2380CBA545FABE36A6F81F_m2EF321505CFAA666C32A7BF562B506898607DA89_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* FirstPersonController_U3COnDisableU3Eb__14_0_mED272AA2213B47A53CF0B9A32471A07C07673A26_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* FirstPersonController_U3COnDisableU3Eb__14_1_m1505F584717C3E0A4129C5BD04F3E43D088E346D_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* FirstPersonController_U3COnDisableU3Eb__14_2_m0ED3BA8E783A11F4E47457D76C4874D7043F606D_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* FirstPersonController_U3COnDisableU3Eb__14_3_m6C641CD4B99462BA9B586209165BC4E458250DDF_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* FirstPersonController_U3COnEnableU3Eb__13_0_m80C2576B52E8148D7B7786C7DD8EAB8F1ABFD9C7_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* FirstPersonController_U3COnEnableU3Eb__13_1_m0B2788BD263252FEEFB8FE0041E386BDE6E39686_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* FirstPersonController_U3COnEnableU3Eb__13_2_m2E599900DEA78A991E4F4837E4EB72E4F178E462_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* FirstPersonController_U3COnEnableU3Eb__13_3_m1F55C510E9E916E3C504BE7FAF778186F15888ED_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* List_1_Add_m9BE0CD6DB63BFCBCBD5619618748924143F1AFAD_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* List_1_Contains_m3845C98317530A7E40923FA39BF1A75403AE5288_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* Nullable_1_GetValueOrDefault_m86E1210429A6EA0082CC7806DD638E8B4555F148_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* Nullable_1__ctor_m4FAA8281CB4EFFD8B817734351FB3AC20A0CD6F5_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* Nullable_1_get_HasValue_m6B76D139692C43B2AF7C695FAB044B16ACFAF355_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* Object_FindObjectsByType_TisCamera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184_m4D25ED2C1304C0082322B9A2488D0A1081FC3AD6_RuntimeMethod_var;
+struct Delegate_t_marshaled_com;
+struct Delegate_t_marshaled_pinvoke;
+
+struct ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031;
+struct CameraU5BU5D_t1506EBA524A07AD1066D6DD4D7DFC6721F1AC26B;
+struct ObjectU5BU5D_t8061030B0A12A55D5AD8652A20C922FE99450918;
+
+IL2CPP_EXTERN_C_BEGIN
+IL2CPP_EXTERN_C_END
+
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+struct U3CModuleU3E_tFDB56627D83F70A907C792854BB1B9EFDB8EC29C 
+{
+};
+struct List_1_tD2FA3273746E404D72561E8324608D18B52B533E  : public RuntimeObject
+{
+	CameraU5BU5D_t1506EBA524A07AD1066D6DD4D7DFC6721F1AC26B* ____items;
+	int32_t ____size;
+	int32_t ____version;
+	RuntimeObject* ____syncRoot;
+};
+struct List_1_tA239CB83DE5615F348BB0507E45F490F4F7C9A8D  : public RuntimeObject
+{
+	ObjectU5BU5D_t8061030B0A12A55D5AD8652A20C922FE99450918* ____items;
+	int32_t ____size;
+	int32_t ____version;
+	RuntimeObject* ____syncRoot;
+};
+struct U3CPrivateImplementationDetailsU3E_t004D303EC2443B3198D2727D8C1AE9CE8C7A003E  : public RuntimeObject
+{
+};
+struct String_t  : public RuntimeObject
+{
+	int32_t ____stringLength;
+	Il2CppChar ____firstChar;
+};
+struct UnitySourceGeneratedAssemblyMonoScriptTypes_v1_t45A7CB074F06D33E3A4D02C3DD47861CB88C4658  : public RuntimeObject
+{
+};
+struct ValueType_t6D9B272BD21782F0A9A14F2E41F85A50E97A986F  : public RuntimeObject
+{
+};
+struct ValueType_t6D9B272BD21782F0A9A14F2E41F85A50E97A986F_marshaled_pinvoke
+{
+};
+struct ValueType_t6D9B272BD21782F0A9A14F2E41F85A50E97A986F_marshaled_com
+{
+};
+struct InlinedArray_1_t8ACE9AAD82807AA2C2CD8030EB6420B3228CEF00 
+{
+	int32_t ___length;
+	Action_1_tD5FA47F50DE964EA177B87ABF2576790239219A3* ___firstValue;
+	Action_1U5BU5D_tDDE8F0E5F72CDCC3C9228F7F50484C0B41BAF4E0* ___additionalValues;
+};
+struct InlinedArray_1_tC208D319D19C2B3DF550BD9CDC11549F23D8F91B 
+{
+	int32_t ___length;
+	Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* ___firstValue;
+	Action_1U5BU5D_tB846E6FE2326CCD34124D1E5D70117C9D33DEE76* ___additionalValues;
+};
+struct Nullable_1_t78F453FADB4A9F50F267A4E349019C34410D1A01 
+{
+	bool ___hasValue;
+	bool ___value;
+};
+struct Boolean_t09A6377A54BE2F9E6985A8149F19234FD7DDFE22 
+{
+	bool ___m_value;
+};
+struct Byte_t94D9231AC217BE4D2E004C4CD32DF6D099EA41A3 
+{
+	uint8_t ___m_value;
+};
+struct Enum_t2A1A94B24E3B776EEF4E5E485E290BB9D4D072E2  : public ValueType_t6D9B272BD21782F0A9A14F2E41F85A50E97A986F
+{
+};
+struct Enum_t2A1A94B24E3B776EEF4E5E485E290BB9D4D072E2_marshaled_pinvoke
+{
+};
+struct Enum_t2A1A94B24E3B776EEF4E5E485E290BB9D4D072E2_marshaled_com
+{
+};
+struct InputUser_tD938B6FAC4D79FB2BA7040DE247549A4F832000E 
+{
+	uint32_t ___m_Id;
+};
+struct Int32_t680FF22E76F6EFAD4375103CBBFFA0421349384C 
+{
+	int32_t ___m_value;
+};
+struct IntPtr_t 
+{
+	void* ___m_value;
+};
+struct LayerMask_t97CB6BDADEDC3D6423C7BCFEA7F86DA2EC6241DB 
+{
+	int32_t ___m_Mask;
+};
+struct Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 
+{
+	float ___x;
+	float ___y;
+	float ___z;
+	float ___w;
+};
+struct Single_t4530F2FF86FCB0DC29F35385CA1BD21BE294761C 
+{
+	float ___m_value;
+};
+struct Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 
+{
+	float ___x;
+	float ___y;
+};
+struct Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 
+{
+	float ___x;
+	float ___y;
+	float ___z;
+};
+struct Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 
+{
+	float ___x;
+	float ___y;
+	float ___z;
+	float ___w;
+};
+struct Void_t4861ACF8F4594C3437BB48B6E56783494B843915 
+{
+	union
+	{
+		struct
+		{
+		};
+		uint8_t Void_t4861ACF8F4594C3437BB48B6E56783494B843915__padding[1];
+	};
+};
+#pragma pack(push, tp, 1)
+struct __StaticArrayInitTypeSizeU3D372_t3FBAB06CA7EE2F3CAD0F0EB5A76F32A8615975E4 
+{
+	union
+	{
+		struct
+		{
+			union
+			{
+			};
+		};
+		uint8_t __StaticArrayInitTypeSizeU3D372_t3FBAB06CA7EE2F3CAD0F0EB5A76F32A8615975E4__padding[372];
+	};
+};
+#pragma pack(pop, tp)
+#pragma pack(push, tp, 1)
+struct __StaticArrayInitTypeSizeU3D87_t8CB97407D4680E79E18D49D567B69C375D67DF11 
+{
+	union
+	{
+		struct
+		{
+			union
+			{
+			};
+		};
+		uint8_t __StaticArrayInitTypeSizeU3D87_t8CB97407D4680E79E18D49D567B69C375D67DF11__padding[87];
+	};
+};
+#pragma pack(pop, tp)
+struct CallbackContext_tB251EE41F509C6E8A6B05EC97C029A45DF4F5FA8 
+{
+	InputActionState_t780948EA293BAA800AD8699518B58B59FFB8A700* ___m_State;
+	int32_t ___m_ActionIndex;
+};
+struct CallbackContext_tB251EE41F509C6E8A6B05EC97C029A45DF4F5FA8_marshaled_pinvoke
+{
+	InputActionState_t780948EA293BAA800AD8699518B58B59FFB8A700* ___m_State;
+	int32_t ___m_ActionIndex;
+};
+struct CallbackContext_tB251EE41F509C6E8A6B05EC97C029A45DF4F5FA8_marshaled_com
+{
+	InputActionState_t780948EA293BAA800AD8699518B58B59FFB8A700* ___m_State;
+	int32_t ___m_ActionIndex;
+};
+struct DeviceArray_t7F2F2D8A9D5CAF504DC1A21C1FEF79BCA9E4761E 
+{
+	bool ___m_HaveValue;
+	int32_t ___m_DeviceCount;
+	InputDeviceU5BU5D_tA9AEFC6AF63557D3D5DCFB2B26DDA6F63147D548* ___m_DeviceArray;
+};
+struct DeviceArray_t7F2F2D8A9D5CAF504DC1A21C1FEF79BCA9E4761E_marshaled_pinvoke
+{
+	int32_t ___m_HaveValue;
+	int32_t ___m_DeviceCount;
+	InputDeviceU5BU5D_tA9AEFC6AF63557D3D5DCFB2B26DDA6F63147D548* ___m_DeviceArray;
+};
+struct DeviceArray_t7F2F2D8A9D5CAF504DC1A21C1FEF79BCA9E4761E_marshaled_com
+{
+	int32_t ___m_HaveValue;
+	int32_t ___m_DeviceCount;
+	InputDeviceU5BU5D_tA9AEFC6AF63557D3D5DCFB2B26DDA6F63147D548* ___m_DeviceArray;
+};
+struct MonoScriptData_tCDB023BE7F89E0BFBD431E6C0215607F997E53C4 
+{
+	ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* ___FilePathsData;
+	ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* ___TypesData;
+	int32_t ___TotalTypes;
+	int32_t ___TotalFiles;
+	bool ___IsEditorOnly;
+};
+struct MonoScriptData_tCDB023BE7F89E0BFBD431E6C0215607F997E53C4_marshaled_pinvoke
+{
+	Il2CppSafeArray* ___FilePathsData;
+	Il2CppSafeArray* ___TypesData;
+	int32_t ___TotalTypes;
+	int32_t ___TotalFiles;
+	int32_t ___IsEditorOnly;
+};
+struct MonoScriptData_tCDB023BE7F89E0BFBD431E6C0215607F997E53C4_marshaled_com
+{
+	Il2CppSafeArray* ___FilePathsData;
+	Il2CppSafeArray* ___TypesData;
+	int32_t ___TotalTypes;
+	int32_t ___TotalFiles;
+	int32_t ___IsEditorOnly;
+};
+struct CallbackArray_1_tD7B9D623F367436CE09AE458AA7DEAA10888477F 
+{
+	bool ___m_CannotMutateCallbacksArray;
+	InlinedArray_1_t8ACE9AAD82807AA2C2CD8030EB6420B3228CEF00 ___m_Callbacks;
+	InlinedArray_1_t8ACE9AAD82807AA2C2CD8030EB6420B3228CEF00 ___m_CallbacksToAdd;
+	InlinedArray_1_t8ACE9AAD82807AA2C2CD8030EB6420B3228CEF00 ___m_CallbacksToRemove;
+};
+struct CallbackArray_1_tDFF8C4C6015023B6C2E70BAD26D8BC6BF00D8775 
+{
+	bool ___m_CannotMutateCallbacksArray;
+	InlinedArray_1_tC208D319D19C2B3DF550BD9CDC11549F23D8F91B ___m_Callbacks;
+	InlinedArray_1_tC208D319D19C2B3DF550BD9CDC11549F23D8F91B ___m_CallbacksToAdd;
+	InlinedArray_1_tC208D319D19C2B3DF550BD9CDC11549F23D8F91B ___m_CallbacksToRemove;
+};
+struct AntialiasingMode_tDF75AC7BDAF51FA550F528F7B798416ACB8D3487 
+{
+	int32_t ___value__;
+};
+struct AntialiasingQuality_t45B2A050F79EB8B705FED3F3F30A70942E71D605 
+{
+	int32_t ___value__;
+};
+struct CameraOverrideOption_tFE4F529A065C94484CFF2D27D4D7D2D8ADB145A9 
+{
+	int32_t ___value__;
+};
+struct CameraRenderType_tC686ABD18F67CA30E6DF217007744F509606A41D 
+{
+	int32_t ___value__;
+};
+struct CollisionFlags_t3132E5D974C485D3F3C97B7AF475965AB0C3F9C1 
+{
+	int32_t ___value__;
+};
+struct ColorGradingMode_t980B9396D20213763F23C4D474BC079FC68BF83E 
+{
+	int32_t ___value__;
+};
+struct CursorLockMode_tB70C7D1B9208B821C1C8A614BE904500B92C47D2 
+{
+	int32_t ___value__;
+};
+struct Delegate_t  : public RuntimeObject
+{
+	intptr_t ___method_ptr;
+	intptr_t ___invoke_impl;
+	RuntimeObject* ___m_target;
+	intptr_t ___method;
+	intptr_t ___delegate_trampoline;
+	intptr_t ___extra_arg;
+	intptr_t ___method_code;
+	intptr_t ___interp_method;
+	intptr_t ___interp_invoke_impl;
+	MethodInfo_t* ___method_info;
+	MethodInfo_t* ___original_method_info;
+	DelegateData_t9B286B493293CD2D23A5B2B5EF0E5B1324C2B77E* ___data;
+	bool ___method_is_virtual;
+};
+struct Delegate_t_marshaled_pinvoke
+{
+	intptr_t ___method_ptr;
+	intptr_t ___invoke_impl;
+	Il2CppIUnknown* ___m_target;
+	intptr_t ___method;
+	intptr_t ___delegate_trampoline;
+	intptr_t ___extra_arg;
+	intptr_t ___method_code;
+	intptr_t ___interp_method;
+	intptr_t ___interp_invoke_impl;
+	MethodInfo_t* ___method_info;
+	MethodInfo_t* ___original_method_info;
+	DelegateData_t9B286B493293CD2D23A5B2B5EF0E5B1324C2B77E* ___data;
+	int32_t ___method_is_virtual;
+};
+struct Delegate_t_marshaled_com
+{
+	intptr_t ___method_ptr;
+	intptr_t ___invoke_impl;
+	Il2CppIUnknown* ___m_target;
+	intptr_t ___method;
+	intptr_t ___delegate_trampoline;
+	intptr_t ___extra_arg;
+	intptr_t ___method_code;
+	intptr_t ___interp_method;
+	intptr_t ___interp_invoke_impl;
+	MethodInfo_t* ___method_info;
+	MethodInfo_t* ___original_method_info;
+	DelegateData_t9B286B493293CD2D23A5B2B5EF0E5B1324C2B77E* ___data;
+	int32_t ___method_is_virtual;
+};
+struct Downsampling_tFE6A5D41D0A9881972AE6C6470FA5E1700410D49 
+{
+	int32_t ___value__;
+};
+struct FindObjectsInactive_t10C7BE036CAD0178142374F945283DA50D02B87A 
+{
+	int32_t ___value__;
+};
+struct FindObjectsSortMode_t3C83F8C6588F54EBB0CEB21F79D54CD19460AE9E 
+{
+	int32_t ___value__;
+};
+struct GPUResidentDrawerMode_t25B237C91A9832B9A2C0DA9F7D85CF2BAE44BD2C 
+{
+	uint8_t ___value__;
+};
+struct HDRColorBufferPrecision_tEF57E1CB7C2B230E3AFF5D6628010DD456EA58C7 
+{
+	int32_t ___value__;
+};
+struct InputActionType_t7E3615BDDF3C84F39712E5889559D3AD8E773108 
+{
+	int32_t ___value__;
+};
+struct LODCrossFadeDitheringType_tB8C1B60F3BCA8E2BEFB7F09B3D93F96CE2CB1667 
+{
+	int32_t ___value__;
+};
+struct LightCookieFormat_tDED41022799DAEAA99C550708D80B99A2A8F9EC1 
+{
+	int32_t ___value__;
+};
+struct LightCookieResolution_t10D8305CBC46C8C4261C5EFAA031A2B35AF2BF39 
+{
+	int32_t ___value__;
+};
+struct LightProbeSystem_tEFBD1F503CF60DFBD07B38E3422CA44B5825921C 
+{
+	int32_t ___value__;
+};
+struct LightRenderingMode_t38A0DEB49D920E66D4854F5C54437D11BBA6D024 
+{
+	int32_t ___value__;
+};
+struct MsaaQuality_tE945475230F4F9265C9C862D32DE0484CB458FF9 
+{
+	int32_t ___value__;
+};
+struct Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C  : public RuntimeObject
+{
+	intptr_t ___m_CachedPtr;
+};
+struct Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_marshaled_pinvoke
+{
+	intptr_t ___m_CachedPtr;
+};
+struct Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_marshaled_com
+{
+	intptr_t ___m_CachedPtr;
+};
+struct PipelineDebugLevel_tA1231A8106C64D773860E40E46555EB8682D746B 
+{
+	int32_t ___value__;
+};
+struct PlayerNotifications_tE5383B64A1C4B58C0F4D36E7E2DA72CF09D6C6DB 
+{
+	int32_t ___value__;
+};
+struct ProbeVolumeBlendingTextureMemoryBudget_t7EE399384930322B57F0CF83315FE1FA651CB002 
+{
+	int32_t ___value__;
+};
+struct ProbeVolumeSHBands_t1515D16254FE4344C5FC4C9506F4F9A7ABA4D194 
+{
+	int32_t ___value__;
+};
+struct ProbeVolumeTextureMemoryBudget_t9F9B7221A5D6E98DAED0233C050A91A2D745CB66 
+{
+	int32_t ___value__;
+};
+struct ProfilerMarker_tA256E18DA86EDBC5528CE066FC91C96EE86501AD 
+{
+	intptr_t ___m_Ptr;
+};
+struct RendererType_t952E4F0C867408594D6DB4894BEFF90C854B6C90 
+{
+	int32_t ___value__;
+};
+struct RuntimeFieldHandle_t6E4C45B6D2EA12FC99185805A7E77527899B25C5 
+{
+	intptr_t ___value;
+};
+struct ShEvalMode_t3815527819404E432D030BC50500EF1C5A0C0117 
+{
+	int32_t ___value__;
+};
+struct ShadowCascadesOption_t0A87F71CB8129325144A22F446F8BDF0297F0823 
+{
+	int32_t ___value__;
+};
+struct ShadowQuality_tA2A95092FE517E629C7015F01CFFD83704BFAD24 
+{
+	int32_t ___value__;
+};
+struct ShadowResolution_t6C40A535E6EC0EFEF19D5BD8B3470E3EAEE58C2F 
+{
+	int32_t ___value__;
+};
+struct SoftShadowQuality_t912D2519B85B76887C033210FFE985794D829D14 
+{
+	int32_t ___value__;
+};
+struct StoreActionsOptimization_tB5EB82E81175365B1DF3C5DE71F35E77E3B38B4A 
+{
+	int32_t ___value__;
+};
+struct TemporalAAQuality_t03A8B3F777D54108A9CE21E79AB4C022968AD5F5 
+{
+	int32_t ___value__;
+};
+struct UpscalingFilterSelection_t2C57376448148F3F22A29AAD71BBB7DB99D8F9A4 
+{
+	int32_t ___value__;
+};
+struct VolumeFrameworkUpdateMode_tCD9A8BEF3700F3AA490F1BB39EF8A88E94398627 
+{
+	int32_t ___value__;
+};
+struct ActionFlags_t639BD2944E073F8DD263CE2CA581FC62C401AB1E 
+{
+	int32_t ___value__;
+};
+struct Flags_t2ED4EFE461994B03533B3B524C8C2EA71315AAE6 
+{
+	int32_t ___value__;
+};
+struct Version_t8FE0D25C0F2D4540648156EC04916E1EA8F1ACDC 
+{
+	int32_t ___value__;
+};
+struct Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3  : public Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C
+{
+};
+struct GameObject_t76FEDD663AB33C991A9C9A23129337651094216F  : public Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C
+{
+};
+struct InputBinding_t0D75BD1538CF81D29450D568D5C938E111633EC5 
+{
+	String_t* ___m_Name;
+	String_t* ___m_Id;
+	String_t* ___m_Path;
+	String_t* ___m_Interactions;
+	String_t* ___m_Processors;
+	String_t* ___m_Groups;
+	String_t* ___m_Action;
+	int32_t ___m_Flags;
+	String_t* ___m_OverridePath;
+	String_t* ___m_OverrideInteractions;
+	String_t* ___m_OverrideProcessors;
+};
+struct InputBinding_t0D75BD1538CF81D29450D568D5C938E111633EC5_marshaled_pinvoke
+{
+	char* ___m_Name;
+	char* ___m_Id;
+	char* ___m_Path;
+	char* ___m_Interactions;
+	char* ___m_Processors;
+	char* ___m_Groups;
+	char* ___m_Action;
+	int32_t ___m_Flags;
+	char* ___m_OverridePath;
+	char* ___m_OverrideInteractions;
+	char* ___m_OverrideProcessors;
+};
+struct InputBinding_t0D75BD1538CF81D29450D568D5C938E111633EC5_marshaled_com
+{
+	Il2CppChar* ___m_Name;
+	Il2CppChar* ___m_Id;
+	Il2CppChar* ___m_Path;
+	Il2CppChar* ___m_Interactions;
+	Il2CppChar* ___m_Processors;
+	Il2CppChar* ___m_Groups;
+	Il2CppChar* ___m_Action;
+	int32_t ___m_Flags;
+	Il2CppChar* ___m_OverridePath;
+	Il2CppChar* ___m_OverrideInteractions;
+	Il2CppChar* ___m_OverrideProcessors;
+};
+struct MulticastDelegate_t  : public Delegate_t
+{
+	DelegateU5BU5D_tC5AB7E8F745616680F337909D3A8E6C722CDF771* ___delegates;
+};
+struct MulticastDelegate_t_marshaled_pinvoke : public Delegate_t_marshaled_pinvoke
+{
+	Delegate_t_marshaled_pinvoke** ___delegates;
+};
+struct MulticastDelegate_t_marshaled_com : public Delegate_t_marshaled_com
+{
+	Delegate_t_marshaled_com** ___delegates;
+};
+struct ScriptableObject_tB3BFDB921A1B1795B38A5417D3B97A89A140436A  : public Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C
+{
+};
+struct ScriptableObject_tB3BFDB921A1B1795B38A5417D3B97A89A140436A_marshaled_pinvoke : public Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_marshaled_pinvoke
+{
+};
+struct ScriptableObject_tB3BFDB921A1B1795B38A5417D3B97A89A140436A_marshaled_com : public Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_marshaled_com
+{
+};
+struct Settings_t3BEFDFF2C1A3D3A215DAF7B76E735B1BFB946C92 
+{
+	int32_t ___m_Quality;
+	float ___m_FrameInfluence;
+	float ___m_JitterScale;
+	float ___m_MipBias;
+	float ___m_VarianceClampScale;
+	float ___m_ContrastAdaptiveSharpening;
+	int32_t ___resetHistoryFrames;
+	int32_t ___jitterFrameCountOffset;
+};
+struct Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E  : public MulticastDelegate_t
+{
+};
+struct Nullable_1_t11786EE914FE65E70B9671129B0DFC4D0DE80C44 
+{
+	bool ___hasValue;
+	InputBinding_t0D75BD1538CF81D29450D568D5C938E111633EC5 ___value;
+};
+struct Behaviour_t01970CFBBA658497AE30F311C447DB0440BAB7FA  : public Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3
+{
+};
+struct Collider_t1CC3163924FCD6C4CC2E816373A929C1E3D55E76  : public Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3
+{
+};
+struct RenderPipelineAsset_t5F9BF815BF931E1314B184E7F9070FB649C7054E  : public ScriptableObject_tB3BFDB921A1B1795B38A5417D3B97A89A140436A
+{
+};
+struct Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1  : public Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3
+{
+};
+struct RenderPipelineAsset_1_t2873A88178504E8793D044D4422CB05E32AEB121  : public RenderPipelineAsset_t5F9BF815BF931E1314B184E7F9070FB649C7054E
+{
+};
+struct Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184  : public Behaviour_t01970CFBBA658497AE30F311C447DB0440BAB7FA
+{
+	uint32_t ___m_NonSerializedVersion;
+};
+struct CharacterController_t847C1A2719F60547D7D6077B648D6CE2D1EF3A6A  : public Collider_t1CC3163924FCD6C4CC2E816373A929C1E3D55E76
+{
+};
+struct InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD  : public RuntimeObject
+{
+	String_t* ___m_Name;
+	int32_t ___m_Type;
+	String_t* ___m_ExpectedControlType;
+	String_t* ___m_Id;
+	String_t* ___m_Processors;
+	String_t* ___m_Interactions;
+	InputBindingU5BU5D_t7E47E87B9CAE12B6F6A0659008B425C58D84BB57* ___m_SingletonActionBindings;
+	int32_t ___m_Flags;
+	Nullable_1_t11786EE914FE65E70B9671129B0DFC4D0DE80C44 ___m_BindingMask;
+	int32_t ___m_BindingsStartIndex;
+	int32_t ___m_BindingsCount;
+	int32_t ___m_ControlStartIndex;
+	int32_t ___m_ControlCount;
+	int32_t ___m_ActionIndexInState;
+	InputActionMap_tFCE82E0E014319D4DED9F8962B06655DD0420A09* ___m_ActionMap;
+	CallbackArray_1_tDFF8C4C6015023B6C2E70BAD26D8BC6BF00D8775 ___m_OnStarted;
+	CallbackArray_1_tDFF8C4C6015023B6C2E70BAD26D8BC6BF00D8775 ___m_OnCanceled;
+	CallbackArray_1_tDFF8C4C6015023B6C2E70BAD26D8BC6BF00D8775 ___m_OnPerformed;
+};
+struct InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D  : public ScriptableObject_tB3BFDB921A1B1795B38A5417D3B97A89A140436A
+{
+	InputActionMapU5BU5D_t4B352E8DA73976FEDA107E35E81FB5BE6838C045* ___m_ActionMaps;
+	InputControlSchemeU5BU5D_tAE603126FBD4D6B8F67EA6F8CFA531A646C63D86* ___m_ControlSchemes;
+	bool ___m_IsProjectWide;
+	InputActionState_t780948EA293BAA800AD8699518B58B59FFB8A700* ___m_SharedStateForAllMaps;
+	Nullable_1_t11786EE914FE65E70B9671129B0DFC4D0DE80C44 ___m_BindingMask;
+	int32_t ___m_ParameterOverridesCount;
+	ParameterOverrideU5BU5D_tC408277D7E98D32E4B0AEFA1E2EDDB74790897EE* ___m_ParameterOverrides;
+	DeviceArray_t7F2F2D8A9D5CAF504DC1A21C1FEF79BCA9E4761E ___m_Devices;
+};
+struct MonoBehaviour_t532A11E69716D348D8AA7F854AFCBFCB8AD17F71  : public Behaviour_t01970CFBBA658497AE30F311C447DB0440BAB7FA
+{
+	CancellationTokenSource_tAAE1E0033BCFC233801F8CB4CED5C852B350CB7B* ___m_CancellationTokenSource;
+};
+struct CameraManagement_tA3FBE641F8AA810B391B4440A1565567287F2967  : public MonoBehaviour_t532A11E69716D348D8AA7F854AFCBFCB8AD17F71
+{
+	Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* ___baseCamera;
+	Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* ___overlayCamera;
+	PlayerInput_t5155B6508FE1937D9B2380CBA545FABE36A6F81F* ___playerInput;
+	InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* ___fireAction;
+	float ___baseFOV;
+	float ___overlayFOV;
+	bool ___isOverlayActive;
+};
+struct CheckAssignedRenderPipelineAsset_t318BCD72D1B5920A1F4ECE759B381F35970D5918  : public MonoBehaviour_t532A11E69716D348D8AA7F854AFCBFCB8AD17F71
+{
+	UniversalRenderPipelineAsset_tE8A9AA6F030CC3B558CEA2EB54FFF4FC58CA6232* ___m_PipelineAsset;
+	GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* ___m_WarningGameObject;
+	Nullable_1_t78F453FADB4A9F50F267A4E349019C34410D1A01 ___m_LastCorrectPipelineResults;
+};
+struct FirstPersonController_t1E56BAC4D9CC397A7A3053A6696BCDB6588E0C6C  : public MonoBehaviour_t532A11E69716D348D8AA7F854AFCBFCB8AD17F71
+{
+	float ___moveSpeed;
+	float ___gravity;
+	float ___lookSensitivity;
+	Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* ___baseCamera;
+	CharacterController_t847C1A2719F60547D7D6077B648D6CE2D1EF3A6A* ___controller;
+	PlayerInput_t5155B6508FE1937D9B2380CBA545FABE36A6F81F* ___playerInput;
+	InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* ___moveAction;
+	InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* ___lookAction;
+	Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___moveInput;
+	Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___lookInput;
+	float ___verticalVelocity;
+	float ___cameraPitch;
+};
+struct PlayerInput_t5155B6508FE1937D9B2380CBA545FABE36A6F81F  : public MonoBehaviour_t532A11E69716D348D8AA7F854AFCBFCB8AD17F71
+{
+	int32_t ___m_AllMapsHashCode;
+	InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* ___m_Actions;
+	int32_t ___m_NotificationBehavior;
+	InputSystemUIInputModule_tB7D5B53F656D196BB5AF712FA16FEE22B2EE0C58* ___m_UIInputModule;
+	DeviceLostEvent_tDD8832F14B7DA15569261EFEBC47E67CF4E1B9D4* ___m_DeviceLostEvent;
+	DeviceRegainedEvent_t24153E8876417F010AA4C0C1C25D6CB792EC01D1* ___m_DeviceRegainedEvent;
+	ControlsChangedEvent_t24A5BA4AB8034B3C662F956A4C85ECC6B8332B48* ___m_ControlsChangedEvent;
+	ActionEventU5BU5D_t45BD340B9AA6F3287339EA686E3FE0A47801E88F* ___m_ActionEvents;
+	bool ___m_NeverAutoSwitchControlSchemes;
+	String_t* ___m_DefaultControlScheme;
+	String_t* ___m_DefaultActionMap;
+	int32_t ___m_SplitScreenIndex;
+	Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* ___m_Camera;
+	InputValue_t4F053958518BDF6FD85C55F31B0597C9521B4231* ___m_InputValueObject;
+	InputActionMap_tFCE82E0E014319D4DED9F8962B06655DD0420A09* ___m_CurrentActionMap;
+	int32_t ___m_PlayerIndex;
+	bool ___m_InputActive;
+	bool ___m_Enabled;
+	bool ___m_ActionsInitialized;
+	Dictionary_2_t46B2DB028096FA2B828359E52F37F3105A83AD83* ___m_ActionMessageNames;
+	InputUser_tD938B6FAC4D79FB2BA7040DE247549A4F832000E ___m_InputUser;
+	Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* ___m_ActionTriggeredDelegate;
+	CallbackArray_1_tD7B9D623F367436CE09AE458AA7DEAA10888477F ___m_DeviceLostCallbacks;
+	CallbackArray_1_tD7B9D623F367436CE09AE458AA7DEAA10888477F ___m_DeviceRegainedCallbacks;
+	CallbackArray_1_tD7B9D623F367436CE09AE458AA7DEAA10888477F ___m_ControlsChangedCallbacks;
+	CallbackArray_1_tDFF8C4C6015023B6C2E70BAD26D8BC6BF00D8775 ___m_ActionTriggeredCallbacks;
+	Action_2_t6A27AF0A3585FFCF87D39ADE472BCFD2F2930F19* ___m_UnpairedDeviceUsedDelegate;
+	Func_3_t42E9F5CDEF4CF174C35D943F427EF585FE829937* ___m_PreFilterUnpairedDeviceUsedDelegate;
+	bool ___m_OnUnpairedDeviceUsedHooked;
+	Action_2_tB79528C85CFEF7DFF52C575DDAA398D2FE6BC333* ___m_DeviceChangeDelegate;
+	bool ___m_OnDeviceChangeHooked;
+};
+struct UniversalAdditionalCameraData_t57B5D0F93C2D506E618E23187302C0FADE813B93  : public MonoBehaviour_t532A11E69716D348D8AA7F854AFCBFCB8AD17F71
+{
+	bool ___m_RenderShadows;
+	int32_t ___m_RequiresDepthTextureOption;
+	int32_t ___m_RequiresOpaqueTextureOption;
+	int32_t ___m_CameraType;
+	List_1_tD2FA3273746E404D72561E8324608D18B52B533E* ___m_Cameras;
+	int32_t ___m_RendererIndex;
+	LayerMask_t97CB6BDADEDC3D6423C7BCFEA7F86DA2EC6241DB ___m_VolumeLayerMask;
+	Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* ___m_VolumeTrigger;
+	int32_t ___m_VolumeFrameworkUpdateModeOption;
+	bool ___m_RenderPostProcessing;
+	int32_t ___m_Antialiasing;
+	int32_t ___m_AntialiasingQuality;
+	bool ___m_StopNaN;
+	bool ___m_Dithering;
+	bool ___m_ClearDepth;
+	bool ___m_AllowXRRendering;
+	bool ___m_AllowHDROutput;
+	bool ___m_UseScreenCoordOverride;
+	Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 ___m_ScreenSizeOverride;
+	Vector4_t58B63D32F48C0DBF50DE2C60794C4676C80EDBE3 ___m_ScreenCoordScaleBias;
+	Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* ___m_Camera;
+	bool ___m_RequiresDepthTexture;
+	bool ___m_RequiresColorTexture;
+	MotionVectorsPersistentData_t077A3BA28B75576C897E6C794FE0ABF9DB8EBBBB* ___m_MotionVectorsPersistentData;
+	UniversalCameraHistory_t15D275DAE9AD5B608CE533D0FCE0884F07BB1E80* ___m_History;
+	Settings_t3BEFDFF2C1A3D3A215DAF7B76E735B1BFB946C92 ___m_TaaSettings;
+	VolumeStack_t5DE94743BDB63D97EF5587DBDAE46468233F36E8* ___m_VolumeStack;
+	int32_t ___m_Version;
+};
+struct UniversalRenderPipelineAsset_tE8A9AA6F030CC3B558CEA2EB54FFF4FC58CA6232  : public RenderPipelineAsset_1_t2873A88178504E8793D044D4422CB05E32AEB121
+{
+	ScriptableRendererU5BU5D_t9B15C048BCE03A67E830F1C79989B6A3E43788E6* ___m_Renderers;
+	int32_t ___k_AssetVersion;
+	int32_t ___k_AssetPreviousVersion;
+	int32_t ___m_RendererType;
+	ScriptableRendererData_t9005CE645D4881FA4431E52EDC7678203632CAA7* ___m_RendererData;
+	ScriptableRendererDataU5BU5D_tC674C147618C92B68DB64ECFDC847C8A941C6169* ___m_RendererDataList;
+	int32_t ___m_DefaultRendererIndex;
+	bool ___m_RequireDepthTexture;
+	bool ___m_RequireOpaqueTexture;
+	int32_t ___m_OpaqueDownsampling;
+	bool ___m_SupportsTerrainHoles;
+	bool ___m_SupportsHDR;
+	int32_t ___m_HDRColorBufferPrecision;
+	int32_t ___m_MSAA;
+	float ___m_RenderScale;
+	int32_t ___m_UpscalingFilter;
+	bool ___m_FsrOverrideSharpness;
+	float ___m_FsrSharpness;
+	bool ___m_EnableLODCrossFade;
+	int32_t ___m_LODCrossFadeDitheringType;
+	int32_t ___m_ShEvalMode;
+	int32_t ___m_LightProbeSystem;
+	int32_t ___m_ProbeVolumeMemoryBudget;
+	int32_t ___m_ProbeVolumeBlendingMemoryBudget;
+	bool ___m_SupportProbeVolumeGPUStreaming;
+	bool ___m_SupportProbeVolumeDiskStreaming;
+	bool ___m_SupportProbeVolumeScenarios;
+	bool ___m_SupportProbeVolumeScenarioBlending;
+	int32_t ___m_ProbeVolumeSHBands;
+	int32_t ___m_MainLightRenderingMode;
+	bool ___m_MainLightShadowsSupported;
+	int32_t ___m_MainLightShadowmapResolution;
+	int32_t ___m_AdditionalLightsRenderingMode;
+	int32_t ___m_AdditionalLightsPerObjectLimit;
+	bool ___m_AdditionalLightShadowsSupported;
+	int32_t ___m_AdditionalLightsShadowmapResolution;
+	int32_t ___m_AdditionalLightsShadowResolutionTierLow;
+	int32_t ___m_AdditionalLightsShadowResolutionTierMedium;
+	int32_t ___m_AdditionalLightsShadowResolutionTierHigh;
+	bool ___m_ReflectionProbeBlending;
+	bool ___m_ReflectionProbeBoxProjection;
+	bool ___m_ReflectionProbeAtlas;
+	float ___m_ShadowDistance;
+	int32_t ___m_ShadowCascadeCount;
+	float ___m_Cascade2Split;
+	Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___m_Cascade3Split;
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___m_Cascade4Split;
+	float ___m_CascadeBorder;
+	float ___m_ShadowDepthBias;
+	float ___m_ShadowNormalBias;
+	bool ___m_SoftShadowsSupported;
+	bool ___m_ConservativeEnclosingSphere;
+	int32_t ___m_NumIterationsEnclosingSphere;
+	int32_t ___m_SoftShadowQuality;
+	int32_t ___m_AdditionalLightsCookieResolution;
+	int32_t ___m_AdditionalLightsCookieFormat;
+	bool ___m_UseSRPBatcher;
+	bool ___m_SupportsDynamicBatching;
+	bool ___m_MixedLightingSupported;
+	bool ___m_SupportsLightCookies;
+	bool ___m_SupportsLightLayers;
+	int32_t ___m_DebugLevel;
+	int32_t ___m_StoreActionsOptimization;
+	bool ___m_UseAdaptivePerformance;
+	int32_t ___m_ColorGradingMode;
+	int32_t ___m_ColorGradingLutSize;
+	bool ___m_AllowPostProcessAlphaOutput;
+	bool ___m_UseFastSRGBLinearConversion;
+	bool ___m_SupportDataDrivenLensFlare;
+	bool ___m_SupportScreenSpaceLensFlare;
+	uint8_t ___m_GPUResidentDrawerMode;
+	float ___m_SmallMeshScreenPercentage;
+	bool ___m_GPUResidentDrawerEnableOcclusionCullingInCameras;
+	int32_t ___m_ShadowType;
+	bool ___m_LocalShadowsSupported;
+	int32_t ___m_LocalShadowsAtlasResolution;
+	int32_t ___m_MaxPixelLights;
+	int32_t ___m_ShadowAtlasResolution;
+	int32_t ___m_VolumeFrameworkUpdateMode;
+	VolumeProfile_t9B5F2005F575A710F38A124EF81A6228CCACACE1* ___m_VolumeProfile;
+	ProbeVolumeSceneData_t29FD126D36ED1E093C2EBBFB3F248DD5E2A86D90* ___apvScenesData;
+	Shader_tADC867D36B7876EE22427FAA2CE485105F4EE692* ___m_DefaultShader;
+	int32_t ___m_ShaderVariantLogLevel;
+	int32_t ___m_ShadowCascades;
+	TextureResources_t8FB6A098EBF3C08BF1BD5EA926743C0FA595202B* ___m_Textures;
+};
+struct List_1_tD2FA3273746E404D72561E8324608D18B52B533E_StaticFields
+{
+	CameraU5BU5D_t1506EBA524A07AD1066D6DD4D7DFC6721F1AC26B* ___s_emptyArray;
+};
+struct List_1_tA239CB83DE5615F348BB0507E45F490F4F7C9A8D_StaticFields
+{
+	ObjectU5BU5D_t8061030B0A12A55D5AD8652A20C922FE99450918* ___s_emptyArray;
+};
+struct U3CPrivateImplementationDetailsU3E_t004D303EC2443B3198D2727D8C1AE9CE8C7A003E_StaticFields
+{
+	__StaticArrayInitTypeSizeU3D87_t8CB97407D4680E79E18D49D567B69C375D67DF11 ___818CD1151FB13B32010C82427512B9D7ABC980F0F40ED49BB7857359A2F91ABE;
+	__StaticArrayInitTypeSizeU3D372_t3FBAB06CA7EE2F3CAD0F0EB5A76F32A8615975E4 ___F6A592B042C70D649F4FCF062E7F8A3BC423C7C58CFF26579159BEB1A3BBE224;
+};
+struct String_t_StaticFields
+{
+	String_t* ___Empty;
+};
+struct Boolean_t09A6377A54BE2F9E6985A8149F19234FD7DDFE22_StaticFields
+{
+	String_t* ___TrueString;
+	String_t* ___FalseString;
+};
+struct IntPtr_t_StaticFields
+{
+	intptr_t ___Zero;
+};
+struct Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974_StaticFields
+{
+	Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 ___identityQuaternion;
+};
+struct Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7_StaticFields
+{
+	Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___zeroVector;
+	Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___oneVector;
+	Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___upVector;
+	Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___downVector;
+	Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___leftVector;
+	Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___rightVector;
+	Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___positiveInfinityVector;
+	Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 ___negativeInfinityVector;
+};
+struct Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2_StaticFields
+{
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___zeroVector;
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___oneVector;
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___upVector;
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___downVector;
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___leftVector;
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___rightVector;
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___forwardVector;
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___backVector;
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___positiveInfinityVector;
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___negativeInfinityVector;
+};
+struct Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_StaticFields
+{
+	int32_t ___OffsetOfInstanceIDInCPlusPlusObject;
+};
+struct Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184_StaticFields
+{
+	CameraCallback_t844E527BFE37BC0495E7F67993E43C07642DA9DD* ___onPreCull;
+	CameraCallback_t844E527BFE37BC0495E7F67993E43C07642DA9DD* ___onPreRender;
+	CameraCallback_t844E527BFE37BC0495E7F67993E43C07642DA9DD* ___onPostRender;
+};
+struct InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD_StaticFields
+{
+	ProfilerMarker_tA256E18DA86EDBC5528CE066FC91C96EE86501AD ___k_InputActionEnableProfilerMarker;
+	ProfilerMarker_tA256E18DA86EDBC5528CE066FC91C96EE86501AD ___k_InputActionDisableProfilerMarker;
+};
+struct PlayerInput_t5155B6508FE1937D9B2380CBA545FABE36A6F81F_StaticFields
+{
+	int32_t ___s_AllActivePlayersCount;
+	PlayerInputU5BU5D_t68A8570E76E18996F872BEEBA1C81ED2E4671080* ___s_AllActivePlayers;
+	Action_3_tE646D5EE2107669AE49025C0E3DC04C831ACCAE0* ___s_UserChangeDelegate;
+	int32_t ___s_InitPairWithDevicesCount;
+	InputDeviceU5BU5D_tA9AEFC6AF63557D3D5DCFB2B26DDA6F63147D548* ___s_InitPairWithDevices;
+	int32_t ___s_InitPlayerIndex;
+	int32_t ___s_InitSplitScreenIndex;
+	String_t* ___s_InitControlScheme;
+	bool ___s_DestroyIfDeviceSetupUnsuccessful;
+};
+struct UniversalAdditionalCameraData_t57B5D0F93C2D506E618E23187302C0FADE813B93_StaticFields
+{
+	UniversalAdditionalCameraData_t57B5D0F93C2D506E618E23187302C0FADE813B93* ___s_DefaultAdditionalCameraData;
+	List_1_tF9F2510E1F31EAAB4FF93BF5D2FD123A1BA401D8* ___s_CachedVolumeStacks;
+};
+struct UniversalRenderPipelineAsset_tE8A9AA6F030CC3B558CEA2EB54FFF4FC58CA6232_StaticFields
+{
+	int32_t ___AdditionalLightsDefaultShadowResolutionTierLow;
+	int32_t ___AdditionalLightsDefaultShadowResolutionTierMedium;
+	int32_t ___AdditionalLightsDefaultShadowResolutionTierHigh;
+	StringU5BU5D_t7674CD946EC0CE7B3AE0BE70E6EE85F2ECD9F248* ___s_Names;
+	Int32U5BU5D_t19C97395396A72ECAF310612F0760F165060314C* ___s_Values;
+	GraphicsFormatU5BU5DU5BU5D_t1424BD937A890524D2A66FF39E61DEB0F10FE0A2* ___s_LightCookieFormatList;
+};
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+struct CameraU5BU5D_t1506EBA524A07AD1066D6DD4D7DFC6721F1AC26B  : public RuntimeArray
+{
+	ALIGN_FIELD (8) Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* m_Items[1];
+
+	inline Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184** GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+		Il2CppCodeGenWriteBarrier((void**)m_Items + index, (void*)value);
+	}
+	inline Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184** GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* value)
+	{
+		m_Items[index] = value;
+		Il2CppCodeGenWriteBarrier((void**)m_Items + index, (void*)value);
+	}
+};
+struct ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031  : public RuntimeArray
+{
+	ALIGN_FIELD (8) uint8_t m_Items[1];
+
+	inline uint8_t GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline uint8_t* GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, uint8_t value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+	}
+	inline uint8_t GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline uint8_t* GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, uint8_t value)
+	{
+		m_Items[index] = value;
+	}
+};
+struct ObjectU5BU5D_t8061030B0A12A55D5AD8652A20C922FE99450918  : public RuntimeArray
+{
+	ALIGN_FIELD (8) RuntimeObject* m_Items[1];
+
+	inline RuntimeObject* GetAt(il2cpp_array_size_t index) const
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items[index];
+	}
+	inline RuntimeObject** GetAddressAt(il2cpp_array_size_t index)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		return m_Items + index;
+	}
+	inline void SetAt(il2cpp_array_size_t index, RuntimeObject* value)
+	{
+		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
+		m_Items[index] = value;
+		Il2CppCodeGenWriteBarrier((void**)m_Items + index, (void*)value);
+	}
+	inline RuntimeObject* GetAtUnchecked(il2cpp_array_size_t index) const
+	{
+		return m_Items[index];
+	}
+	inline RuntimeObject** GetAddressAtUnchecked(il2cpp_array_size_t index)
+	{
+		return m_Items + index;
+	}
+	inline void SetAtUnchecked(il2cpp_array_size_t index, RuntimeObject* value)
+	{
+		m_Items[index] = value;
+		Il2CppCodeGenWriteBarrier((void**)m_Items + index, (void*)value);
+	}
+};
+
+
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* Component_GetComponent_TisRuntimeObject_m7181F81CAEC2CF53F5D2BC79B7425C16E1F80D33_gshared (Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool List_1_Contains_m4C9139C2A6B23E9343D3F87807B32C6E2CFE660D_gshared (List_1_tA239CB83DE5615F348BB0507E45F490F4F7C9A8D* __this, RuntimeObject* ___0_item, const RuntimeMethod* method) ;
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void List_1_Add_mEBCF994CC3814631017F46A387B1A192ED6C85C7_gshared_inline (List_1_tA239CB83DE5615F348BB0507E45F490F4F7C9A8D* __this, RuntimeObject* ___0_item, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57_gshared (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* __this, RuntimeObject* ___0_object, intptr_t ___1_method, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ObjectU5BU5D_t8061030B0A12A55D5AD8652A20C922FE99450918* Object_FindObjectsByType_TisRuntimeObject_mB1F91C8A4722D89B3A122EE213E9746E9C67EE8D_gshared (int32_t ___0_findObjectsInactive, int32_t ___1_sortMode, const RuntimeMethod* method) ;
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool Nullable_1_get_HasValue_m6B76D139692C43B2AF7C695FAB044B16ACFAF355_gshared_inline (Nullable_1_t78F453FADB4A9F50F267A4E349019C34410D1A01* __this, const RuntimeMethod* method) ;
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool Nullable_1_GetValueOrDefault_m86E1210429A6EA0082CC7806DD638E8B4555F148_gshared_inline (Nullable_1_t78F453FADB4A9F50F267A4E349019C34410D1A01* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Nullable_1__ctor_m4FAA8281CB4EFFD8B817734351FB3AC20A0CD6F5_gshared (Nullable_1_t78F453FADB4A9F50F267A4E349019C34410D1A01* __this, bool ___0_value, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 CallbackContext_ReadValue_TisVector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7_m454ADEAE74A5A469E011CF78D6303A1034659830_gshared (CallbackContext_tB251EE41F509C6E8A6B05EC97C029A45DF4F5FA8* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_NO_INLINE IL2CPP_METHOD_ATTR void List_1_AddWithResize_m79A9BF770BEF9C06BE40D5401E55E375F2726CC4_gshared (List_1_tA239CB83DE5615F348BB0507E45F490F4F7C9A8D* __this, RuntimeObject* ___0_item, const RuntimeMethod* method) ;
+
+inline PlayerInput_t5155B6508FE1937D9B2380CBA545FABE36A6F81F* Component_GetComponent_TisPlayerInput_t5155B6508FE1937D9B2380CBA545FABE36A6F81F_m2EF321505CFAA666C32A7BF562B506898607DA89 (Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3* __this, const RuntimeMethod* method)
+{
+	return ((  PlayerInput_t5155B6508FE1937D9B2380CBA545FABE36A6F81F* (*) (Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3*, const RuntimeMethod*))Component_GetComponent_TisRuntimeObject_m7181F81CAEC2CF53F5D2BC79B7425C16E1F80D33_gshared)(__this, method);
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool Object_op_Equality_mB6120F782D83091EF56A198FCEBCF066DB4A9605 (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* ___0_x, Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* ___1_y, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Debug_LogError_mB00B2B4468EF3CAF041B038D840820FB84C924B2 (RuntimeObject* ___0_message, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Behaviour_set_enabled_mF1DCFE60EB09E0529FE9476CA804A3AA2D72B16A (Behaviour_t01970CFBBA658497AE30F311C447DB0440BAB7FA* __this, bool ___0_value, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float Camera_get_fieldOfView_m9A93F17BBF89F496AE231C21817AFD1C1E833FBB (Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR UniversalAdditionalCameraData_t57B5D0F93C2D506E618E23187302C0FADE813B93* CameraExtensions_GetUniversalAdditionalCameraData_m38406768FA69BDC80D45CA7698EC0B8755448604 (Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* ___0_camera, const RuntimeMethod* method) ;
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void UniversalAdditionalCameraData_set_renderType_m9DDB84440A73ACDDB34D7906C16F42ECBD22FE92_inline (UniversalAdditionalCameraData_t57B5D0F93C2D506E618E23187302C0FADE813B93* __this, int32_t ___0_value, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR List_1_tD2FA3273746E404D72561E8324608D18B52B533E* UniversalAdditionalCameraData_get_cameraStack_m6C740EDD1178DB7509ABA57A1392B03C78BB9C92 (UniversalAdditionalCameraData_t57B5D0F93C2D506E618E23187302C0FADE813B93* __this, const RuntimeMethod* method) ;
+inline bool List_1_Contains_m3845C98317530A7E40923FA39BF1A75403AE5288 (List_1_tD2FA3273746E404D72561E8324608D18B52B533E* __this, Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* ___0_item, const RuntimeMethod* method)
+{
+	return ((  bool (*) (List_1_tD2FA3273746E404D72561E8324608D18B52B533E*, Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184*, const RuntimeMethod*))List_1_Contains_m4C9139C2A6B23E9343D3F87807B32C6E2CFE660D_gshared)(__this, ___0_item, method);
+}
+inline void List_1_Add_m9BE0CD6DB63BFCBCBD5619618748924143F1AFAD_inline (List_1_tD2FA3273746E404D72561E8324608D18B52B533E* __this, Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* ___0_item, const RuntimeMethod* method)
+{
+	((  void (*) (List_1_tD2FA3273746E404D72561E8324608D18B52B533E*, Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184*, const RuntimeMethod*))List_1_Add_mEBCF994CC3814631017F46A387B1A192ED6C85C7_gshared_inline)(__this, ___0_item, method);
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B (Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92 (GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* __this, bool ___0_value, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* PlayerInput_get_actions_m7A85BC149F2EAE4E7BB0785A08D2AEA6B9F4E183 (PlayerInput_t5155B6508FE1937D9B2380CBA545FABE36A6F81F* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* InputActionAsset_get_Item_mF080081A5481241910DCB5A068AAFCE6E69AE581 (InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* __this, String_t* ___0_actionNameOrId, const RuntimeMethod* method) ;
+inline void Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57 (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* __this, RuntimeObject* ___0_object, intptr_t ___1_method, const RuntimeMethod* method)
+{
+	((  void (*) (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*, RuntimeObject*, intptr_t, const RuntimeMethod*))Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57_gshared)(__this, ___0_object, ___1_method, method);
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void InputAction_add_performed_m0337FFA16EBEF7AE365C3B558CFDFF7BB9747B54 (InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* __this, Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* ___0_value, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void InputAction_add_canceled_m69EC253E21CC314BFB350A86E294D0651F5ECA77 (InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* __this, Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* ___0_value, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void InputAction_remove_performed_m1BE84CED38F11F17C825FA782B35C92D708E6E44 (InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* __this, Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* ___0_value, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void InputAction_remove_canceled_m7CF8D377C61DB1290E153C56312A7C075544AF7F (InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* __this, Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* ___0_value, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Camera_set_fieldOfView_m5AA9EED4D1603A1DEDBF883D9C42814B2BDEB777 (Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* __this, float ___0_value, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602 (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* ___0_x, Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* ___1_y, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* Component_get_transform_m2919A1D81931E6932C7F06D4C2F0AB8DDA9A5371 (Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 Transform_get_rotation_m32AF40CA0D50C797DA639A696F8EAEC7524C179C (Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Transform_set_rotation_m61340DE74726CF0F9946743A727C4D444397331D (Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* __this, Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 ___0_value, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MonoBehaviour__ctor_m592DB0105CA0BC97AA1C5F4AD27B12D68A3B7C1E (MonoBehaviour_t532A11E69716D348D8AA7F854AFCBFCB8AD17F71* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RenderPipelineAsset_t5F9BF815BF931E1314B184E7F9070FB649C7054E* QualitySettings_get_renderPipeline_mBED269CBEC7409C297A2A5120DBAF185DCC4AFC8 (const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RenderPipelineAsset_t5F9BF815BF931E1314B184E7F9070FB649C7054E* GraphicsSettings_get_defaultRenderPipeline_m2B69E2AFC36189F7FEF3EB453C8A1A165A5CF9CD (const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CheckAssignedRenderPipelineAsset_CheckIfCorrectAssetIsAssigned_mA2912E235CBE2C8B0CE000A53DCF0750BEFB4082 (CheckAssignedRenderPipelineAsset_t318BCD72D1B5920A1F4ECE759B381F35970D5918* __this, const RuntimeMethod* method) ;
+inline CameraU5BU5D_t1506EBA524A07AD1066D6DD4D7DFC6721F1AC26B* Object_FindObjectsByType_TisCamera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184_m4D25ED2C1304C0082322B9A2488D0A1081FC3AD6 (int32_t ___0_findObjectsInactive, int32_t ___1_sortMode, const RuntimeMethod* method)
+{
+	return ((  CameraU5BU5D_t1506EBA524A07AD1066D6DD4D7DFC6721F1AC26B* (*) (int32_t, int32_t, const RuntimeMethod*))Object_FindObjectsByType_TisRuntimeObject_mB1F91C8A4722D89B3A122EE213E9746E9C67EE8D_gshared)(___0_findObjectsInactive, ___1_sortMode, method);
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool CheckAssignedRenderPipelineAsset_get_isCorrectAssetAssigned_m2195E7C9992963801320AD6EEF90D99F9089F049 (CheckAssignedRenderPipelineAsset_t318BCD72D1B5920A1F4ECE759B381F35970D5918* __this, const RuntimeMethod* method) ;
+inline bool Nullable_1_get_HasValue_m6B76D139692C43B2AF7C695FAB044B16ACFAF355_inline (Nullable_1_t78F453FADB4A9F50F267A4E349019C34410D1A01* __this, const RuntimeMethod* method)
+{
+	return ((  bool (*) (Nullable_1_t78F453FADB4A9F50F267A4E349019C34410D1A01*, const RuntimeMethod*))Nullable_1_get_HasValue_m6B76D139692C43B2AF7C695FAB044B16ACFAF355_gshared_inline)(__this, method);
+}
+inline bool Nullable_1_GetValueOrDefault_m86E1210429A6EA0082CC7806DD638E8B4555F148_inline (Nullable_1_t78F453FADB4A9F50F267A4E349019C34410D1A01* __this, const RuntimeMethod* method)
+{
+	return ((  bool (*) (Nullable_1_t78F453FADB4A9F50F267A4E349019C34410D1A01*, const RuntimeMethod*))Nullable_1_GetValueOrDefault_m86E1210429A6EA0082CC7806DD638E8B4555F148_gshared_inline)(__this, method);
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* Object_get_name_mAC2F6B897CF1303BA4249B4CB55271AFACBB6392 (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* String_Concat_m8855A6DE10F84DA7F4EC113CADDB59873A25573B (String_t* ___0_str0, String_t* ___1_str1, String_t* ___2_str2, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CheckAssignedRenderPipelineAsset_SetAllCamerasEnabled_mB541DEEB468185DDEC345B158FE077DCC98999E3 (CheckAssignedRenderPipelineAsset_t318BCD72D1B5920A1F4ECE759B381F35970D5918* __this, bool ___0_enable, const RuntimeMethod* method) ;
+inline void Nullable_1__ctor_m4FAA8281CB4EFFD8B817734351FB3AC20A0CD6F5 (Nullable_1_t78F453FADB4A9F50F267A4E349019C34410D1A01* __this, bool ___0_value, const RuntimeMethod* method)
+{
+	((  void (*) (Nullable_1_t78F453FADB4A9F50F267A4E349019C34410D1A01*, bool, const RuntimeMethod*))Nullable_1__ctor_m4FAA8281CB4EFFD8B817734351FB3AC20A0CD6F5_gshared)(__this, ___0_value, method);
+}
+inline CharacterController_t847C1A2719F60547D7D6077B648D6CE2D1EF3A6A* Component_GetComponent_TisCharacterController_t847C1A2719F60547D7D6077B648D6CE2D1EF3A6A_m96B48A644EDC97C5C82F154D1FEA551B2E392040 (Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3* __this, const RuntimeMethod* method)
+{
+	return ((  CharacterController_t847C1A2719F60547D7D6077B648D6CE2D1EF3A6A* (*) (Component_t39FBE53E5EFCF4409111FB22C15FF73717632EC3*, const RuntimeMethod*))Component_GetComponent_TisRuntimeObject_m7181F81CAEC2CF53F5D2BC79B7425C16E1F80D33_gshared)(__this, method);
+}
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Cursor_set_lockState_mD81F6E5F3D86506FFB88567689A3A00A7AD242E9 (int32_t ___0_value, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Cursor_set_visible_m612FCB2E86C15F91CE2E6148D1B556667954A2B7 (bool ___0_value, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void InputActionAsset_Enable_m5102429EE832C7891F73B6979612702CECA8F431 (InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void FirstPersonController_HandleMovement_mA40E9CD76DE86D6591655F93729E3C0707558DBE (FirstPersonController_t1E56BAC4D9CC397A7A3053A6696BCDB6588E0C6C* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void FirstPersonController_HandleLook_mF97BFBA64A9FECF94A4EB72E94CCEC158ED9EB19 (FirstPersonController_t1E56BAC4D9CC397A7A3053A6696BCDB6588E0C6C* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Transform_get_right_mC6DC057C23313802E2186A9E0DB760D795A758A4 (Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* __this, const RuntimeMethod* method) ;
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_op_Multiply_m87BA7C578F96C8E49BB07088DAAC4649F83B0353_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_a, float ___1_d, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Transform_get_forward_mFCFACF7165FDAB21E80E384C494DF278386CEE2F (Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* __this, const RuntimeMethod* method) ;
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_a, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___1_b, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool CharacterController_get_isGrounded_m548072EC190878925C0F97595B6C307714EFDD67 (CharacterController_t847C1A2719F60547D7D6077B648D6CE2D1EF3A6A* __this, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float Time_get_deltaTime_mC3195000401F0FD167DD2F948FD2BC58330D0865 (const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR int32_t CharacterController_Move_mE3F7AC1B4A2D6955980811C088B68ED3A31D2DA4 (CharacterController_t847C1A2719F60547D7D6077B648D6CE2D1EF3A6A* __this, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_motion, const RuntimeMethod* method) ;
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_get_up_m128AF3FDC820BF59D5DE86D973E7DE3F20C3AEBA_inline (const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Transform_Rotate_m2A308205498AFEEA3DF784B1C86E4F7C126CA2EE (Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* __this, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_eulers, const RuntimeMethod* method) ;
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR float Mathf_Clamp_mEB9AEA827D27D20FCC787F7375156AF46BB12BBF_inline (float ___0_value, float ___1_min, float ___2_max, const RuntimeMethod* method) ;
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_get_right_mFF573AFBBB2186E7AFA1BA7CA271A78DF67E4EA0_inline (const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Transform_set_localEulerAngles_m0458551662A1A51FDCA4C0417282B25D391661DF (Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* __this, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_value, const RuntimeMethod* method) ;
+inline Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 CallbackContext_ReadValue_TisVector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7_m454ADEAE74A5A469E011CF78D6303A1034659830 (CallbackContext_tB251EE41F509C6E8A6B05EC97C029A45DF4F5FA8* __this, const RuntimeMethod* method)
+{
+	return ((  Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 (*) (CallbackContext_tB251EE41F509C6E8A6B05EC97C029A45DF4F5FA8*, const RuntimeMethod*))CallbackContext_ReadValue_TisVector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7_m454ADEAE74A5A469E011CF78D6303A1034659830_gshared)(__this, method);
+}
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 Vector2_get_zero_m32506C40EC2EE7D5D4410BF40D3EE683A3D5F32C_inline (const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void RuntimeHelpers_InitializeArray_m751372AA3F24FBF6DA9B9D687CBFA2DE436CAB9B (RuntimeArray* ___0_array, RuntimeFieldHandle_t6E4C45B6D2EA12FC99185805A7E77527899B25C5 ___1_fldHandle, const RuntimeMethod* method) ;
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Object__ctor_mE837C6B9FA8C6D5D109F4B2EC885D79919AC0EA2 (RuntimeObject* __this, const RuntimeMethod* method) ;
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Vector3__ctor_m376936E6B999EF1ECBE57D990A386303E2283DE0_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2* __this, float ___0_x, float ___1_y, float ___2_z, const RuntimeMethod* method) ;
+inline void List_1_AddWithResize_m79A9BF770BEF9C06BE40D5401E55E375F2726CC4 (List_1_tA239CB83DE5615F348BB0507E45F490F4F7C9A8D* __this, RuntimeObject* ___0_item, const RuntimeMethod* method)
+{
+	((  void (*) (List_1_tA239CB83DE5615F348BB0507E45F490F4F7C9A8D*, RuntimeObject*, const RuntimeMethod*))List_1_AddWithResize_m79A9BF770BEF9C06BE40D5401E55E375F2726CC4_gshared)(__this, ___0_item, method);
+}
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// Method Definition Index: 131275
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CameraManagement_Awake_m95900AD566AF9B8864BFD68E160B5470A0D91F0E (CameraManagement_tA3FBE641F8AA810B391B4440A1565567287F2967* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Component_GetComponent_TisPlayerInput_t5155B6508FE1937D9B2380CBA545FABE36A6F81F_m2EF321505CFAA666C32A7BF562B506898607DA89_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&List_1_Add_m9BE0CD6DB63BFCBCBD5619618748924143F1AFAD_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&List_1_Contains_m3845C98317530A7E40923FA39BF1A75403AE5288_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralCA37D11771E9A64F0FBD37ABECEB28243F0A9E8E);
+		s_Il2CppMethodInitialized = true;
+	}
+	UniversalAdditionalCameraData_t57B5D0F93C2D506E618E23187302C0FADE813B93* V_0 = NULL;
+	{
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CameraManagement.cs:22>
+		PlayerInput_t5155B6508FE1937D9B2380CBA545FABE36A6F81F* L_0;
+		L_0 = Component_GetComponent_TisPlayerInput_t5155B6508FE1937D9B2380CBA545FABE36A6F81F_m2EF321505CFAA666C32A7BF562B506898607DA89(__this, Component_GetComponent_TisPlayerInput_t5155B6508FE1937D9B2380CBA545FABE36A6F81F_m2EF321505CFAA666C32A7BF562B506898607DA89_RuntimeMethod_var);
+		__this->___playerInput = L_0;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___playerInput), (void*)L_0);
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CameraManagement.cs:25>
+		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_1 = __this->___baseCamera;
+		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		bool L_2;
+		L_2 = Object_op_Equality_mB6120F782D83091EF56A198FCEBCF066DB4A9605(L_1, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
+		if (L_2)
+		{
+			goto IL_0028;
+		}
+	}
+	{
+		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_3 = __this->___overlayCamera;
+		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		bool L_4;
+		L_4 = Object_op_Equality_mB6120F782D83091EF56A198FCEBCF066DB4A9605(L_3, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
+		if (!L_4)
+		{
+			goto IL_003a;
+		}
+	}
+
+IL_0028:
+	{
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CameraManagement.cs:27>
+		il2cpp_codegen_runtime_class_init_inline(Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
+		Debug_LogError_mB00B2B4468EF3CAF041B038D840820FB84C924B2(_stringLiteralCA37D11771E9A64F0FBD37ABECEB28243F0A9E8E, NULL);
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CameraManagement.cs:28>
+		Behaviour_set_enabled_mF1DCFE60EB09E0529FE9476CA804A3AA2D72B16A(__this, (bool)0, NULL);
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CameraManagement.cs:29>
+		return;
+	}
+
+IL_003a:
+	{
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CameraManagement.cs:33>
+		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_5 = __this->___baseCamera;
+		NullCheck(L_5);
+		float L_6;
+		L_6 = Camera_get_fieldOfView_m9A93F17BBF89F496AE231C21817AFD1C1E833FBB(L_5, NULL);
+		__this->___baseFOV = L_6;
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CameraManagement.cs:34>
+		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_7 = __this->___overlayCamera;
+		NullCheck(L_7);
+		float L_8;
+		L_8 = Camera_get_fieldOfView_m9A93F17BBF89F496AE231C21817AFD1C1E833FBB(L_7, NULL);
+		__this->___overlayFOV = L_8;
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CameraManagement.cs:37>
+		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_9 = __this->___baseCamera;
+		UniversalAdditionalCameraData_t57B5D0F93C2D506E618E23187302C0FADE813B93* L_10;
+		L_10 = CameraExtensions_GetUniversalAdditionalCameraData_m38406768FA69BDC80D45CA7698EC0B8755448604(L_9, NULL);
+		V_0 = L_10;
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CameraManagement.cs:38>
+		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_11 = __this->___overlayCamera;
+		UniversalAdditionalCameraData_t57B5D0F93C2D506E618E23187302C0FADE813B93* L_12;
+		L_12 = CameraExtensions_GetUniversalAdditionalCameraData_m38406768FA69BDC80D45CA7698EC0B8755448604(L_11, NULL);
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CameraManagement.cs:39>
+		NullCheck(L_12);
+		UniversalAdditionalCameraData_set_renderType_m9DDB84440A73ACDDB34D7906C16F42ECBD22FE92_inline(L_12, 1, NULL);
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CameraManagement.cs:41>
+		UniversalAdditionalCameraData_t57B5D0F93C2D506E618E23187302C0FADE813B93* L_13 = V_0;
+		NullCheck(L_13);
+		List_1_tD2FA3273746E404D72561E8324608D18B52B533E* L_14;
+		L_14 = UniversalAdditionalCameraData_get_cameraStack_m6C740EDD1178DB7509ABA57A1392B03C78BB9C92(L_13, NULL);
+		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_15 = __this->___overlayCamera;
+		NullCheck(L_14);
+		bool L_16;
+		L_16 = List_1_Contains_m3845C98317530A7E40923FA39BF1A75403AE5288(L_14, L_15, List_1_Contains_m3845C98317530A7E40923FA39BF1A75403AE5288_RuntimeMethod_var);
+		if (L_16)
+		{
+			goto IL_009d;
+		}
+	}
+	{
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CameraManagement.cs:42>
+		UniversalAdditionalCameraData_t57B5D0F93C2D506E618E23187302C0FADE813B93* L_17 = V_0;
+		NullCheck(L_17);
+		List_1_tD2FA3273746E404D72561E8324608D18B52B533E* L_18;
+		L_18 = UniversalAdditionalCameraData_get_cameraStack_m6C740EDD1178DB7509ABA57A1392B03C78BB9C92(L_17, NULL);
+		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_19 = __this->___overlayCamera;
+		NullCheck(L_18);
+		List_1_Add_m9BE0CD6DB63BFCBCBD5619618748924143F1AFAD_inline(L_18, L_19, List_1_Add_m9BE0CD6DB63BFCBCBD5619618748924143F1AFAD_RuntimeMethod_var);
+	}
+
+IL_009d:
+	{
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CameraManagement.cs:45>
+		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_20 = __this->___overlayCamera;
+		NullCheck(L_20);
+		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_21;
+		L_21 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(L_20, NULL);
+		NullCheck(L_21);
+		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_21, (bool)0, NULL);
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CameraManagement.cs:46>
+		return;
+	}
+}
+// Method Definition Index: 131276
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CameraManagement_OnEnable_m595BA84F4D941CB3588A9987891FCA9C6738F8D0 (CameraManagement_tA3FBE641F8AA810B391B4440A1565567287F2967* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&CameraManagement_OnFireCanceled_m8131E493A84DA6BDCBD59C56793EAA6A75FD5744_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&CameraManagement_OnFirePerformed_mF86BD0210C71F20BE07FD0F9A7D79C01B4048EC2_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralD5A6D1524A9CAA0C1FE48522BD4B250F6A827CC8);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CameraManagement.cs:50>
+		PlayerInput_t5155B6508FE1937D9B2380CBA545FABE36A6F81F* L_0 = __this->___playerInput;
+		NullCheck(L_0);
+		InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* L_1;
+		L_1 = PlayerInput_get_actions_m7A85BC149F2EAE4E7BB0785A08D2AEA6B9F4E183(L_0, NULL);
+		NullCheck(L_1);
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_2;
+		L_2 = InputActionAsset_get_Item_mF080081A5481241910DCB5A068AAFCE6E69AE581(L_1, _stringLiteralD5A6D1524A9CAA0C1FE48522BD4B250F6A827CC8, NULL);
+		__this->___fireAction = L_2;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___fireAction), (void*)L_2);
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CameraManagement.cs:51>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_3 = __this->___fireAction;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_4 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_4, __this, (intptr_t)((void*)CameraManagement_OnFirePerformed_mF86BD0210C71F20BE07FD0F9A7D79C01B4048EC2_RuntimeMethod_var), NULL);
+		NullCheck(L_3);
+		InputAction_add_performed_m0337FFA16EBEF7AE365C3B558CFDFF7BB9747B54(L_3, L_4, NULL);
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CameraManagement.cs:52>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_5 = __this->___fireAction;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_6 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_6, __this, (intptr_t)((void*)CameraManagement_OnFireCanceled_m8131E493A84DA6BDCBD59C56793EAA6A75FD5744_RuntimeMethod_var), NULL);
+		NullCheck(L_5);
+		InputAction_add_canceled_m69EC253E21CC314BFB350A86E294D0651F5ECA77(L_5, L_6, NULL);
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CameraManagement.cs:53>
+		return;
+	}
+}
+// Method Definition Index: 131277
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CameraManagement_OnDisable_mB04D50BCEC5DFC36380FBC367DC37BF8B4C9BA65 (CameraManagement_tA3FBE641F8AA810B391B4440A1565567287F2967* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&CameraManagement_OnFireCanceled_m8131E493A84DA6BDCBD59C56793EAA6A75FD5744_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&CameraManagement_OnFirePerformed_mF86BD0210C71F20BE07FD0F9A7D79C01B4048EC2_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CameraManagement.cs:57>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_0 = __this->___fireAction;
+		if (!L_0)
+		{
+			goto IL_0036;
+		}
+	}
+	{
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CameraManagement.cs:59>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_1 = __this->___fireAction;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_2 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_2, __this, (intptr_t)((void*)CameraManagement_OnFirePerformed_mF86BD0210C71F20BE07FD0F9A7D79C01B4048EC2_RuntimeMethod_var), NULL);
+		NullCheck(L_1);
+		InputAction_remove_performed_m1BE84CED38F11F17C825FA782B35C92D708E6E44(L_1, L_2, NULL);
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CameraManagement.cs:60>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_3 = __this->___fireAction;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_4 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_4, __this, (intptr_t)((void*)CameraManagement_OnFireCanceled_m8131E493A84DA6BDCBD59C56793EAA6A75FD5744_RuntimeMethod_var), NULL);
+		NullCheck(L_3);
+		InputAction_remove_canceled_m7CF8D377C61DB1290E153C56312A7C075544AF7F(L_3, L_4, NULL);
+	}
+
+IL_0036:
+	{
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CameraManagement.cs:62>
+		return;
+	}
+}
+// Method Definition Index: 131278
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CameraManagement_OnFirePerformed_mF86BD0210C71F20BE07FD0F9A7D79C01B4048EC2 (CameraManagement_tA3FBE641F8AA810B391B4440A1565567287F2967* __this, CallbackContext_tB251EE41F509C6E8A6B05EC97C029A45DF4F5FA8 ___0_ctx, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CameraManagement.cs:66>
+		__this->___isOverlayActive = (bool)1;
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CameraManagement.cs:67>
+		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_0 = __this->___overlayCamera;
+		NullCheck(L_0);
+		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_1;
+		L_1 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(L_0, NULL);
+		NullCheck(L_1);
+		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_1, (bool)1, NULL);
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CameraManagement.cs:68>
+		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_2 = __this->___baseCamera;
+		float L_3 = __this->___overlayFOV;
+		NullCheck(L_2);
+		Camera_set_fieldOfView_m5AA9EED4D1603A1DEDBF883D9C42814B2BDEB777(L_2, L_3, NULL);
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CameraManagement.cs:69>
+		return;
+	}
+}
+// Method Definition Index: 131279
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CameraManagement_OnFireCanceled_m8131E493A84DA6BDCBD59C56793EAA6A75FD5744 (CameraManagement_tA3FBE641F8AA810B391B4440A1565567287F2967* __this, CallbackContext_tB251EE41F509C6E8A6B05EC97C029A45DF4F5FA8 ___0_ctx, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CameraManagement.cs:73>
+		__this->___isOverlayActive = (bool)0;
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CameraManagement.cs:74>
+		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_0 = __this->___overlayCamera;
+		NullCheck(L_0);
+		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_1;
+		L_1 = Component_get_gameObject_m57AEFBB14DB39EC476F740BA000E170355DE691B(L_0, NULL);
+		NullCheck(L_1);
+		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_1, (bool)0, NULL);
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CameraManagement.cs:75>
+		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_2 = __this->___baseCamera;
+		float L_3 = __this->___baseFOV;
+		NullCheck(L_2);
+		Camera_set_fieldOfView_m5AA9EED4D1603A1DEDBF883D9C42814B2BDEB777(L_2, L_3, NULL);
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CameraManagement.cs:76>
+		return;
+	}
+}
+// Method Definition Index: 131280
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CameraManagement_LateUpdate_mF9E09A668EA3127FB470985260515E3CC9CFED12 (CameraManagement_tA3FBE641F8AA810B391B4440A1565567287F2967* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CameraManagement.cs:81>
+		bool L_0 = __this->___isOverlayActive;
+		if (!L_0)
+		{
+			goto IL_0044;
+		}
+	}
+	{
+		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_1 = __this->___overlayCamera;
+		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		bool L_2;
+		L_2 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_1, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
+		if (!L_2)
+		{
+			goto IL_0044;
+		}
+	}
+	{
+		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_3 = __this->___baseCamera;
+		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		bool L_4;
+		L_4 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_3, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
+		if (!L_4)
+		{
+			goto IL_0044;
+		}
+	}
+	{
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CameraManagement.cs:83>
+		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_5 = __this->___overlayCamera;
+		NullCheck(L_5);
+		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_6;
+		L_6 = Component_get_transform_m2919A1D81931E6932C7F06D4C2F0AB8DDA9A5371(L_5, NULL);
+		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_7 = __this->___baseCamera;
+		NullCheck(L_7);
+		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_8;
+		L_8 = Component_get_transform_m2919A1D81931E6932C7F06D4C2F0AB8DDA9A5371(L_7, NULL);
+		NullCheck(L_8);
+		Quaternion_tDA59F214EF07D7700B26E40E562F267AF7306974 L_9;
+		L_9 = Transform_get_rotation_m32AF40CA0D50C797DA639A696F8EAEC7524C179C(L_8, NULL);
+		NullCheck(L_6);
+		Transform_set_rotation_m61340DE74726CF0F9946743A727C4D444397331D(L_6, L_9, NULL);
+	}
+
+IL_0044:
+	{
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CameraManagement.cs:85>
+		return;
+	}
+}
+// Method Definition Index: 131281
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CameraManagement__ctor_m28A36CBCEEAB93274753DD85895FC99E9B2B603C (CameraManagement_tA3FBE641F8AA810B391B4440A1565567287F2967* __this, const RuntimeMethod* method) 
+{
+	{
+		MonoBehaviour__ctor_m592DB0105CA0BC97AA1C5F4AD27B12D68A3B7C1E(__this, NULL);
+		return;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// Method Definition Index: 131282
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool CheckAssignedRenderPipelineAsset_get_isCorrectAssetAssigned_m2195E7C9992963801320AD6EEF90D99F9089F049 (CheckAssignedRenderPipelineAsset_t318BCD72D1B5920A1F4ECE759B381F35970D5918* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&GraphicsSettings_t01785CE5CB5C5105CB527619AF4D74BEF417EF1A_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CheckAssignedRenderPipelineAsset.cs:14>
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CheckAssignedRenderPipelineAsset.cs:15>
+		RenderPipelineAsset_t5F9BF815BF931E1314B184E7F9070FB649C7054E* L_0;
+		L_0 = QualitySettings_get_renderPipeline_mBED269CBEC7409C297A2A5120DBAF185DCC4AFC8(NULL);
+		UniversalRenderPipelineAsset_tE8A9AA6F030CC3B558CEA2EB54FFF4FC58CA6232* L_1 = __this->___m_PipelineAsset;
+		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		bool L_2;
+		L_2 = Object_op_Equality_mB6120F782D83091EF56A198FCEBCF066DB4A9605(L_0, L_1, NULL);
+		if (L_2)
+		{
+			goto IL_0032;
+		}
+	}
+	{
+		RenderPipelineAsset_t5F9BF815BF931E1314B184E7F9070FB649C7054E* L_3;
+		L_3 = QualitySettings_get_renderPipeline_mBED269CBEC7409C297A2A5120DBAF185DCC4AFC8(NULL);
+		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		bool L_4;
+		L_4 = Object_op_Equality_mB6120F782D83091EF56A198FCEBCF066DB4A9605(L_3, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
+		if (!L_4)
+		{
+			goto IL_0030;
+		}
+	}
+	{
+		il2cpp_codegen_runtime_class_init_inline(GraphicsSettings_t01785CE5CB5C5105CB527619AF4D74BEF417EF1A_il2cpp_TypeInfo_var);
+		RenderPipelineAsset_t5F9BF815BF931E1314B184E7F9070FB649C7054E* L_5;
+		L_5 = GraphicsSettings_get_defaultRenderPipeline_m2B69E2AFC36189F7FEF3EB453C8A1A165A5CF9CD(NULL);
+		UniversalRenderPipelineAsset_tE8A9AA6F030CC3B558CEA2EB54FFF4FC58CA6232* L_6 = __this->___m_PipelineAsset;
+		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		bool L_7;
+		L_7 = Object_op_Equality_mB6120F782D83091EF56A198FCEBCF066DB4A9605(L_5, L_6, NULL);
+		return L_7;
+	}
+
+IL_0030:
+	{
+		return (bool)0;
+	}
+
+IL_0032:
+	{
+		return (bool)1;
+	}
+}
+// Method Definition Index: 131283
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CheckAssignedRenderPipelineAsset_Awake_m6F2AAC10CCCDE453E194FFEB3841E63E2F093318 (CheckAssignedRenderPipelineAsset_t318BCD72D1B5920A1F4ECE759B381F35970D5918* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CheckAssignedRenderPipelineAsset.cs:19>
+		CheckAssignedRenderPipelineAsset_CheckIfCorrectAssetIsAssigned_mA2912E235CBE2C8B0CE000A53DCF0750BEFB4082(__this, NULL);
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CheckAssignedRenderPipelineAsset.cs:20>
+		return;
+	}
+}
+// Method Definition Index: 131284
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CheckAssignedRenderPipelineAsset_Update_m1ED4D2EBFA0BC8B50053E08F37A8B3D7C4473962 (CheckAssignedRenderPipelineAsset_t318BCD72D1B5920A1F4ECE759B381F35970D5918* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CheckAssignedRenderPipelineAsset.cs:24>
+		CheckAssignedRenderPipelineAsset_CheckIfCorrectAssetIsAssigned_mA2912E235CBE2C8B0CE000A53DCF0750BEFB4082(__this, NULL);
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CheckAssignedRenderPipelineAsset.cs:25>
+		return;
+	}
+}
+// Method Definition Index: 131285
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CheckAssignedRenderPipelineAsset_SetAllCamerasEnabled_mB541DEEB468185DDEC345B158FE077DCC98999E3 (CheckAssignedRenderPipelineAsset_t318BCD72D1B5920A1F4ECE759B381F35970D5918* __this, bool ___0_enable, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Object_FindObjectsByType_TisCamera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184_m4D25ED2C1304C0082322B9A2488D0A1081FC3AD6_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	CameraU5BU5D_t1506EBA524A07AD1066D6DD4D7DFC6721F1AC26B* V_0 = NULL;
+	int32_t V_1 = 0;
+	{
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CheckAssignedRenderPipelineAsset.cs:29>
+		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		CameraU5BU5D_t1506EBA524A07AD1066D6DD4D7DFC6721F1AC26B* L_0;
+		L_0 = Object_FindObjectsByType_TisCamera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184_m4D25ED2C1304C0082322B9A2488D0A1081FC3AD6(1, 0, Object_FindObjectsByType_TisCamera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184_m4D25ED2C1304C0082322B9A2488D0A1081FC3AD6_RuntimeMethod_var);
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CheckAssignedRenderPipelineAsset.cs:30>
+		V_0 = L_0;
+		V_1 = 0;
+		goto IL_0019;
+	}
+
+IL_000c:
+	{
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CheckAssignedRenderPipelineAsset.cs:30>
+		CameraU5BU5D_t1506EBA524A07AD1066D6DD4D7DFC6721F1AC26B* L_1 = V_0;
+		int32_t L_2 = V_1;
+		NullCheck(L_1);
+		int32_t L_3 = L_2;
+		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_4 = (L_1)->GetAt(static_cast<il2cpp_array_size_t>(L_3));
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CheckAssignedRenderPipelineAsset.cs:31>
+		bool L_5 = ___0_enable;
+		NullCheck(L_4);
+		Behaviour_set_enabled_mF1DCFE60EB09E0529FE9476CA804A3AA2D72B16A(L_4, L_5, NULL);
+		int32_t L_6 = V_1;
+		V_1 = ((int32_t)il2cpp_codegen_add(L_6, 1));
+	}
+
+IL_0019:
+	{
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CheckAssignedRenderPipelineAsset.cs:30>
+		int32_t L_7 = V_1;
+		CameraU5BU5D_t1506EBA524A07AD1066D6DD4D7DFC6721F1AC26B* L_8 = V_0;
+		NullCheck(L_8);
+		if ((((int32_t)L_7) < ((int32_t)((int32_t)(((RuntimeArray*)L_8)->max_length)))))
+		{
+			goto IL_000c;
+		}
+	}
+	{
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CheckAssignedRenderPipelineAsset.cs:32>
+		return;
+	}
+}
+// Method Definition Index: 131286
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CheckAssignedRenderPipelineAsset_CheckIfCorrectAssetIsAssigned_mA2912E235CBE2C8B0CE000A53DCF0750BEFB4082 (CheckAssignedRenderPipelineAsset_t318BCD72D1B5920A1F4ECE759B381F35970D5918* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Nullable_1_GetValueOrDefault_m86E1210429A6EA0082CC7806DD638E8B4555F148_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Nullable_1__ctor_m4FAA8281CB4EFFD8B817734351FB3AC20A0CD6F5_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Nullable_1_get_HasValue_m6B76D139692C43B2AF7C695FAB044B16ACFAF355_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral6F85448E679CAD22396A72B854B6AFC5FC004C64);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral9326EBA36A099451A31E035203F1DE1280B48D3C);
+		s_Il2CppMethodInitialized = true;
+	}
+	bool V_0 = false;
+	Nullable_1_t78F453FADB4A9F50F267A4E349019C34410D1A01 V_1;
+	memset((&V_1), 0, sizeof(V_1));
+	bool V_2 = false;
+	{
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CheckAssignedRenderPipelineAsset.cs:36>
+		UniversalRenderPipelineAsset_tE8A9AA6F030CC3B558CEA2EB54FFF4FC58CA6232* L_0 = __this->___m_PipelineAsset;
+		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		bool L_1;
+		L_1 = Object_op_Equality_mB6120F782D83091EF56A198FCEBCF066DB4A9605(L_0, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
+		if (!L_1)
+		{
+			goto IL_000f;
+		}
+	}
+	{
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CheckAssignedRenderPipelineAsset.cs:37>
+		return;
+	}
+
+IL_000f:
+	{
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CheckAssignedRenderPipelineAsset.cs:39>
+		bool L_2;
+		L_2 = CheckAssignedRenderPipelineAsset_get_isCorrectAssetAssigned_m2195E7C9992963801320AD6EEF90D99F9089F049(__this, NULL);
+		V_0 = L_2;
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CheckAssignedRenderPipelineAsset.cs:40>
+		Nullable_1_t78F453FADB4A9F50F267A4E349019C34410D1A01* L_3 = (Nullable_1_t78F453FADB4A9F50F267A4E349019C34410D1A01*)(&__this->___m_LastCorrectPipelineResults);
+		bool L_4;
+		L_4 = Nullable_1_get_HasValue_m6B76D139692C43B2AF7C695FAB044B16ACFAF355_inline(L_3, Nullable_1_get_HasValue_m6B76D139692C43B2AF7C695FAB044B16ACFAF355_RuntimeMethod_var);
+		if (!L_4)
+		{
+			goto IL_0040;
+		}
+	}
+	{
+		Nullable_1_t78F453FADB4A9F50F267A4E349019C34410D1A01 L_5 = __this->___m_LastCorrectPipelineResults;
+		V_1 = L_5;
+		bool L_6 = V_0;
+		V_2 = L_6;
+		bool L_7;
+		L_7 = Nullable_1_GetValueOrDefault_m86E1210429A6EA0082CC7806DD638E8B4555F148_inline((&V_1), Nullable_1_GetValueOrDefault_m86E1210429A6EA0082CC7806DD638E8B4555F148_RuntimeMethod_var);
+		bool L_8 = V_2;
+		bool L_9;
+		L_9 = Nullable_1_get_HasValue_m6B76D139692C43B2AF7C695FAB044B16ACFAF355_inline((&V_1), Nullable_1_get_HasValue_m6B76D139692C43B2AF7C695FAB044B16ACFAF355_RuntimeMethod_var);
+		if (((int32_t)(((((int32_t)L_7) == ((int32_t)L_8))? 1 : 0)&(int32_t)L_9)))
+		{
+			goto IL_0072;
+		}
+	}
+
+IL_0040:
+	{
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CheckAssignedRenderPipelineAsset.cs:42>
+		bool L_10 = V_0;
+		if (L_10)
+		{
+			goto IL_006b;
+		}
+	}
+	{
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CheckAssignedRenderPipelineAsset.cs:44>
+		UniversalRenderPipelineAsset_tE8A9AA6F030CC3B558CEA2EB54FFF4FC58CA6232* L_11 = __this->___m_PipelineAsset;
+		NullCheck(L_11);
+		String_t* L_12;
+		L_12 = Object_get_name_mAC2F6B897CF1303BA4249B4CB55271AFACBB6392(L_11, NULL);
+		String_t* L_13;
+		L_13 = String_Concat_m8855A6DE10F84DA7F4EC113CADDB59873A25573B(_stringLiteral9326EBA36A099451A31E035203F1DE1280B48D3C, L_12, _stringLiteral6F85448E679CAD22396A72B854B6AFC5FC004C64, NULL);
+		il2cpp_codegen_runtime_class_init_inline(Debug_t8394C7EEAECA3689C2C9B9DE9C7166D73596276F_il2cpp_TypeInfo_var);
+		Debug_LogError_mB00B2B4468EF3CAF041B038D840820FB84C924B2(L_13, NULL);
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CheckAssignedRenderPipelineAsset.cs:45>
+		CheckAssignedRenderPipelineAsset_SetAllCamerasEnabled_mB541DEEB468185DDEC345B158FE077DCC98999E3(__this, (bool)0, NULL);
+		goto IL_0072;
+	}
+
+IL_006b:
+	{
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CheckAssignedRenderPipelineAsset.cs:49>
+		CheckAssignedRenderPipelineAsset_SetAllCamerasEnabled_mB541DEEB468185DDEC345B158FE077DCC98999E3(__this, (bool)1, NULL);
+	}
+
+IL_0072:
+	{
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CheckAssignedRenderPipelineAsset.cs:53>
+		bool L_14 = V_0;
+		Nullable_1_t78F453FADB4A9F50F267A4E349019C34410D1A01 L_15;
+		memset((&L_15), 0, sizeof(L_15));
+		Nullable_1__ctor_m4FAA8281CB4EFFD8B817734351FB3AC20A0CD6F5((&L_15), L_14, Nullable_1__ctor_m4FAA8281CB4EFFD8B817734351FB3AC20A0CD6F5_RuntimeMethod_var);
+		__this->___m_LastCorrectPipelineResults = L_15;
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CheckAssignedRenderPipelineAsset.cs:54>
+		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_16 = __this->___m_WarningGameObject;
+		il2cpp_codegen_runtime_class_init_inline(Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C_il2cpp_TypeInfo_var);
+		bool L_17;
+		L_17 = Object_op_Inequality_mD0BE578448EAA61948F25C32F8DD55AB1F778602(L_16, (Object_tC12DECB6760A7F2CBF65D9DCF18D044C2D97152C*)NULL, NULL);
+		if (!L_17)
+		{
+			goto IL_009b;
+		}
+	}
+	{
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CheckAssignedRenderPipelineAsset.cs:55>
+		GameObject_t76FEDD663AB33C991A9C9A23129337651094216F* L_18 = __this->___m_WarningGameObject;
+		bool L_19 = V_0;
+		NullCheck(L_18);
+		GameObject_SetActive_m638E92E1E75E519E5B24CF150B08CA8E0CDFAB92(L_18, (bool)((((int32_t)L_19) == ((int32_t)0))? 1 : 0), NULL);
+	}
+
+IL_009b:
+	{
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/CheckAssignedRenderPipelineAsset.cs:56>
+		return;
+	}
+}
+// Method Definition Index: 131287
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CheckAssignedRenderPipelineAsset__ctor_m8E58BB21EB9496CB7B74258D8B61BF65F2EBCF53 (CheckAssignedRenderPipelineAsset_t318BCD72D1B5920A1F4ECE759B381F35970D5918* __this, const RuntimeMethod* method) 
+{
+	{
+		MonoBehaviour__ctor_m592DB0105CA0BC97AA1C5F4AD27B12D68A3B7C1E(__this, NULL);
+		return;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// Method Definition Index: 131288
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void FirstPersonController_Awake_m2CDA81FCC07C286AAF72E1C20EFC9E9F977F4B13 (FirstPersonController_t1E56BAC4D9CC397A7A3053A6696BCDB6588E0C6C* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Component_GetComponent_TisCharacterController_t847C1A2719F60547D7D6077B648D6CE2D1EF3A6A_m96B48A644EDC97C5C82F154D1FEA551B2E392040_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Component_GetComponent_TisPlayerInput_t5155B6508FE1937D9B2380CBA545FABE36A6F81F_m2EF321505CFAA666C32A7BF562B506898607DA89_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/FirstPersonController.cs:30>
+		CharacterController_t847C1A2719F60547D7D6077B648D6CE2D1EF3A6A* L_0;
+		L_0 = Component_GetComponent_TisCharacterController_t847C1A2719F60547D7D6077B648D6CE2D1EF3A6A_m96B48A644EDC97C5C82F154D1FEA551B2E392040(__this, Component_GetComponent_TisCharacterController_t847C1A2719F60547D7D6077B648D6CE2D1EF3A6A_m96B48A644EDC97C5C82F154D1FEA551B2E392040_RuntimeMethod_var);
+		__this->___controller = L_0;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___controller), (void*)L_0);
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/FirstPersonController.cs:31>
+		PlayerInput_t5155B6508FE1937D9B2380CBA545FABE36A6F81F* L_1;
+		L_1 = Component_GetComponent_TisPlayerInput_t5155B6508FE1937D9B2380CBA545FABE36A6F81F_m2EF321505CFAA666C32A7BF562B506898607DA89(__this, Component_GetComponent_TisPlayerInput_t5155B6508FE1937D9B2380CBA545FABE36A6F81F_m2EF321505CFAA666C32A7BF562B506898607DA89_RuntimeMethod_var);
+		__this->___playerInput = L_1;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___playerInput), (void*)L_1);
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/FirstPersonController.cs:34>
+		Cursor_set_lockState_mD81F6E5F3D86506FFB88567689A3A00A7AD242E9(1, NULL);
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/FirstPersonController.cs:35>
+		Cursor_set_visible_m612FCB2E86C15F91CE2E6148D1B556667954A2B7((bool)0, NULL);
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/FirstPersonController.cs:36>
+		return;
+	}
+}
+// Method Definition Index: 131289
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void FirstPersonController_OnEnable_m8696B974D067D7F6F13847F0B0840597472C6C97 (FirstPersonController_t1E56BAC4D9CC397A7A3053A6696BCDB6588E0C6C* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&FirstPersonController_U3COnEnableU3Eb__13_0_m80C2576B52E8148D7B7786C7DD8EAB8F1ABFD9C7_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&FirstPersonController_U3COnEnableU3Eb__13_1_m0B2788BD263252FEEFB8FE0041E386BDE6E39686_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&FirstPersonController_U3COnEnableU3Eb__13_2_m2E599900DEA78A991E4F4837E4EB72E4F178E462_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&FirstPersonController_U3COnEnableU3Eb__13_3_m1F55C510E9E916E3C504BE7FAF778186F15888ED_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral378F2A2277727E3F33599E270749A10E7C2B55E1);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteralFBA9CEB43D14830BEAAF5F87C6AAAD1A8A36A67F);
+		s_Il2CppMethodInitialized = true;
+	}
+	InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* V_0 = NULL;
+	{
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/FirstPersonController.cs:40>
+		PlayerInput_t5155B6508FE1937D9B2380CBA545FABE36A6F81F* L_0 = __this->___playerInput;
+		NullCheck(L_0);
+		InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* L_1;
+		L_1 = PlayerInput_get_actions_m7A85BC149F2EAE4E7BB0785A08D2AEA6B9F4E183(L_0, NULL);
+		V_0 = L_1;
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/FirstPersonController.cs:42>
+		InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* L_2 = V_0;
+		NullCheck(L_2);
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_3;
+		L_3 = InputActionAsset_get_Item_mF080081A5481241910DCB5A068AAFCE6E69AE581(L_2, _stringLiteral378F2A2277727E3F33599E270749A10E7C2B55E1, NULL);
+		__this->___moveAction = L_3;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___moveAction), (void*)L_3);
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/FirstPersonController.cs:43>
+		InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* L_4 = V_0;
+		NullCheck(L_4);
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_5;
+		L_5 = InputActionAsset_get_Item_mF080081A5481241910DCB5A068AAFCE6E69AE581(L_4, _stringLiteralFBA9CEB43D14830BEAAF5F87C6AAAD1A8A36A67F, NULL);
+		__this->___lookAction = L_5;
+		Il2CppCodeGenWriteBarrier((void**)(&__this->___lookAction), (void*)L_5);
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/FirstPersonController.cs:45>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_6 = __this->___moveAction;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_7 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_7, __this, (intptr_t)((void*)FirstPersonController_U3COnEnableU3Eb__13_0_m80C2576B52E8148D7B7786C7DD8EAB8F1ABFD9C7_RuntimeMethod_var), NULL);
+		NullCheck(L_6);
+		InputAction_add_performed_m0337FFA16EBEF7AE365C3B558CFDFF7BB9747B54(L_6, L_7, NULL);
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/FirstPersonController.cs:46>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_8 = __this->___moveAction;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_9 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_9, __this, (intptr_t)((void*)FirstPersonController_U3COnEnableU3Eb__13_1_m0B2788BD263252FEEFB8FE0041E386BDE6E39686_RuntimeMethod_var), NULL);
+		NullCheck(L_8);
+		InputAction_add_canceled_m69EC253E21CC314BFB350A86E294D0651F5ECA77(L_8, L_9, NULL);
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/FirstPersonController.cs:48>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_10 = __this->___lookAction;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_11 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_11, __this, (intptr_t)((void*)FirstPersonController_U3COnEnableU3Eb__13_2_m2E599900DEA78A991E4F4837E4EB72E4F178E462_RuntimeMethod_var), NULL);
+		NullCheck(L_10);
+		InputAction_add_performed_m0337FFA16EBEF7AE365C3B558CFDFF7BB9747B54(L_10, L_11, NULL);
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/FirstPersonController.cs:49>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_12 = __this->___lookAction;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_13 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_13, __this, (intptr_t)((void*)FirstPersonController_U3COnEnableU3Eb__13_3_m1F55C510E9E916E3C504BE7FAF778186F15888ED_RuntimeMethod_var), NULL);
+		NullCheck(L_12);
+		InputAction_add_canceled_m69EC253E21CC314BFB350A86E294D0651F5ECA77(L_12, L_13, NULL);
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/FirstPersonController.cs:51>
+		InputActionAsset_tF217AC5223B4AAA46EBCB44B33E9259FB117417D* L_14 = V_0;
+		NullCheck(L_14);
+		InputActionAsset_Enable_m5102429EE832C7891F73B6979612702CECA8F431(L_14, NULL);
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/FirstPersonController.cs:52>
+		return;
+	}
+}
+// Method Definition Index: 131290
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void FirstPersonController_OnDisable_mB9DBF9710952FAC6DFFCF0952D053E07590150F0 (FirstPersonController_t1E56BAC4D9CC397A7A3053A6696BCDB6588E0C6C* __this, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&FirstPersonController_U3COnDisableU3Eb__14_0_mED272AA2213B47A53CF0B9A32471A07C07673A26_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&FirstPersonController_U3COnDisableU3Eb__14_1_m1505F584717C3E0A4129C5BD04F3E43D088E346D_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&FirstPersonController_U3COnDisableU3Eb__14_2_m0ED3BA8E783A11F4E47457D76C4874D7043F606D_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&FirstPersonController_U3COnDisableU3Eb__14_3_m6C641CD4B99462BA9B586209165BC4E458250DDF_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/FirstPersonController.cs:56>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_0 = __this->___moveAction;
+		if (!L_0)
+		{
+			goto IL_0036;
+		}
+	}
+	{
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/FirstPersonController.cs:58>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_1 = __this->___moveAction;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_2 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_2, __this, (intptr_t)((void*)FirstPersonController_U3COnDisableU3Eb__14_0_mED272AA2213B47A53CF0B9A32471A07C07673A26_RuntimeMethod_var), NULL);
+		NullCheck(L_1);
+		InputAction_remove_performed_m1BE84CED38F11F17C825FA782B35C92D708E6E44(L_1, L_2, NULL);
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/FirstPersonController.cs:59>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_3 = __this->___moveAction;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_4 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_4, __this, (intptr_t)((void*)FirstPersonController_U3COnDisableU3Eb__14_1_m1505F584717C3E0A4129C5BD04F3E43D088E346D_RuntimeMethod_var), NULL);
+		NullCheck(L_3);
+		InputAction_remove_canceled_m7CF8D377C61DB1290E153C56312A7C075544AF7F(L_3, L_4, NULL);
+	}
+
+IL_0036:
+	{
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/FirstPersonController.cs:61>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_5 = __this->___lookAction;
+		if (!L_5)
+		{
+			goto IL_006c;
+		}
+	}
+	{
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/FirstPersonController.cs:63>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_6 = __this->___lookAction;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_7 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_7, __this, (intptr_t)((void*)FirstPersonController_U3COnDisableU3Eb__14_2_m0ED3BA8E783A11F4E47457D76C4874D7043F606D_RuntimeMethod_var), NULL);
+		NullCheck(L_6);
+		InputAction_remove_performed_m1BE84CED38F11F17C825FA782B35C92D708E6E44(L_6, L_7, NULL);
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/FirstPersonController.cs:64>
+		InputAction_t1B550AD2B55AF322AFB53CD28DA64081220D01CD* L_8 = __this->___lookAction;
+		Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E* L_9 = (Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E*)il2cpp_codegen_object_new(Action_1_tEB0353AA1A112B6F2D921B58DCC9D9D4C0498E6E_il2cpp_TypeInfo_var);
+		Action_1__ctor_mA763900B34C3394F230AE63708F530CA9A192B57(L_9, __this, (intptr_t)((void*)FirstPersonController_U3COnDisableU3Eb__14_3_m6C641CD4B99462BA9B586209165BC4E458250DDF_RuntimeMethod_var), NULL);
+		NullCheck(L_8);
+		InputAction_remove_canceled_m7CF8D377C61DB1290E153C56312A7C075544AF7F(L_8, L_9, NULL);
+	}
+
+IL_006c:
+	{
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/FirstPersonController.cs:66>
+		return;
+	}
+}
+// Method Definition Index: 131291
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void FirstPersonController_Update_m5DADDF19F9D29C5A464E4451BCF6F5C2C5F77304 (FirstPersonController_t1E56BAC4D9CC397A7A3053A6696BCDB6588E0C6C* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/FirstPersonController.cs:70>
+		FirstPersonController_HandleMovement_mA40E9CD76DE86D6591655F93729E3C0707558DBE(__this, NULL);
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/FirstPersonController.cs:71>
+		FirstPersonController_HandleLook_mF97BFBA64A9FECF94A4EB72E94CCEC158ED9EB19(__this, NULL);
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/FirstPersonController.cs:72>
+		return;
+	}
+}
+// Method Definition Index: 131292
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void FirstPersonController_HandleMovement_mA40E9CD76DE86D6591655F93729E3C0707558DBE (FirstPersonController_t1E56BAC4D9CC397A7A3053A6696BCDB6588E0C6C* __this, const RuntimeMethod* method) 
+{
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 V_0;
+	memset((&V_0), 0, sizeof(V_0));
+	{
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/FirstPersonController.cs:76>
+		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_0;
+		L_0 = Component_get_transform_m2919A1D81931E6932C7F06D4C2F0AB8DDA9A5371(__this, NULL);
+		NullCheck(L_0);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_1;
+		L_1 = Transform_get_right_mC6DC057C23313802E2186A9E0DB760D795A758A4(L_0, NULL);
+		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7* L_2 = (Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7*)(&__this->___moveInput);
+		float L_3 = L_2->___x;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_4;
+		L_4 = Vector3_op_Multiply_m87BA7C578F96C8E49BB07088DAAC4649F83B0353_inline(L_1, L_3, NULL);
+		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_5;
+		L_5 = Component_get_transform_m2919A1D81931E6932C7F06D4C2F0AB8DDA9A5371(__this, NULL);
+		NullCheck(L_5);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_6;
+		L_6 = Transform_get_forward_mFCFACF7165FDAB21E80E384C494DF278386CEE2F(L_5, NULL);
+		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7* L_7 = (Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7*)(&__this->___moveInput);
+		float L_8 = L_7->___y;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_9;
+		L_9 = Vector3_op_Multiply_m87BA7C578F96C8E49BB07088DAAC4649F83B0353_inline(L_6, L_8, NULL);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_10;
+		L_10 = Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline(L_4, L_9, NULL);
+		V_0 = L_10;
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/FirstPersonController.cs:78>
+		CharacterController_t847C1A2719F60547D7D6077B648D6CE2D1EF3A6A* L_11 = __this->___controller;
+		NullCheck(L_11);
+		bool L_12;
+		L_12 = CharacterController_get_isGrounded_m548072EC190878925C0F97595B6C307714EFDD67(L_11, NULL);
+		if (!L_12)
+		{
+			goto IL_0061;
+		}
+	}
+	{
+		float L_13 = __this->___verticalVelocity;
+		if ((!(((float)L_13) < ((float)(0.0f)))))
+		{
+			goto IL_0061;
+		}
+	}
+	{
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/FirstPersonController.cs:79>
+		__this->___verticalVelocity = (-2.0f);
+	}
+
+IL_0061:
+	{
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/FirstPersonController.cs:81>
+		float L_14 = __this->___verticalVelocity;
+		float L_15 = __this->___gravity;
+		float L_16;
+		L_16 = Time_get_deltaTime_mC3195000401F0FD167DD2F948FD2BC58330D0865(NULL);
+		__this->___verticalVelocity = ((float)il2cpp_codegen_add(L_14, ((float)il2cpp_codegen_multiply(L_15, L_16))));
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/FirstPersonController.cs:82>
+		float L_17 = __this->___verticalVelocity;
+		(&V_0)->___y = L_17;
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/FirstPersonController.cs:84>
+		CharacterController_t847C1A2719F60547D7D6077B648D6CE2D1EF3A6A* L_18 = __this->___controller;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_19 = V_0;
+		float L_20 = __this->___moveSpeed;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_21;
+		L_21 = Vector3_op_Multiply_m87BA7C578F96C8E49BB07088DAAC4649F83B0353_inline(L_19, L_20, NULL);
+		float L_22;
+		L_22 = Time_get_deltaTime_mC3195000401F0FD167DD2F948FD2BC58330D0865(NULL);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_23;
+		L_23 = Vector3_op_Multiply_m87BA7C578F96C8E49BB07088DAAC4649F83B0353_inline(L_21, L_22, NULL);
+		NullCheck(L_18);
+		int32_t L_24;
+		L_24 = CharacterController_Move_mE3F7AC1B4A2D6955980811C088B68ED3A31D2DA4(L_18, L_23, NULL);
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/FirstPersonController.cs:85>
+		return;
+	}
+}
+// Method Definition Index: 131293
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void FirstPersonController_HandleLook_mF97BFBA64A9FECF94A4EB72E94CCEC158ED9EB19 (FirstPersonController_t1E56BAC4D9CC397A7A3053A6696BCDB6588E0C6C* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/FirstPersonController.cs:89>
+		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_0;
+		L_0 = Component_get_transform_m2919A1D81931E6932C7F06D4C2F0AB8DDA9A5371(__this, NULL);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_1;
+		L_1 = Vector3_get_up_m128AF3FDC820BF59D5DE86D973E7DE3F20C3AEBA_inline(NULL);
+		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7* L_2 = (Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7*)(&__this->___lookInput);
+		float L_3 = L_2->___x;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_4;
+		L_4 = Vector3_op_Multiply_m87BA7C578F96C8E49BB07088DAAC4649F83B0353_inline(L_1, L_3, NULL);
+		float L_5 = __this->___lookSensitivity;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_6;
+		L_6 = Vector3_op_Multiply_m87BA7C578F96C8E49BB07088DAAC4649F83B0353_inline(L_4, L_5, NULL);
+		NullCheck(L_0);
+		Transform_Rotate_m2A308205498AFEEA3DF784B1C86E4F7C126CA2EE(L_0, L_6, NULL);
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/FirstPersonController.cs:91>
+		float L_7 = __this->___cameraPitch;
+		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7* L_8 = (Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7*)(&__this->___lookInput);
+		float L_9 = L_8->___y;
+		float L_10 = __this->___lookSensitivity;
+		__this->___cameraPitch = ((float)il2cpp_codegen_subtract(L_7, ((float)il2cpp_codegen_multiply(L_9, L_10))));
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/FirstPersonController.cs:92>
+		float L_11 = __this->___cameraPitch;
+		float L_12;
+		L_12 = Mathf_Clamp_mEB9AEA827D27D20FCC787F7375156AF46BB12BBF_inline(L_11, (-80.0f), (80.0f), NULL);
+		__this->___cameraPitch = L_12;
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/FirstPersonController.cs:94>
+		Camera_tA92CC927D7439999BC82DBEDC0AA45B470F9E184* L_13 = __this->___baseCamera;
+		NullCheck(L_13);
+		Transform_tB27202C6F4E36D225EE28A13E4D662BF99785DB1* L_14;
+		L_14 = Component_get_transform_m2919A1D81931E6932C7F06D4C2F0AB8DDA9A5371(L_13, NULL);
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_15;
+		L_15 = Vector3_get_right_mFF573AFBBB2186E7AFA1BA7CA271A78DF67E4EA0_inline(NULL);
+		float L_16 = __this->___cameraPitch;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_17;
+		L_17 = Vector3_op_Multiply_m87BA7C578F96C8E49BB07088DAAC4649F83B0353_inline(L_15, L_16, NULL);
+		NullCheck(L_14);
+		Transform_set_localEulerAngles_m0458551662A1A51FDCA4C0417282B25D391661DF(L_14, L_17, NULL);
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/FirstPersonController.cs:95>
+		return;
+	}
+}
+// Method Definition Index: 131294
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void FirstPersonController__ctor_mD3CF02DB7876F7AA46BA8F539D4BEA132B7415A4 (FirstPersonController_t1E56BAC4D9CC397A7A3053A6696BCDB6588E0C6C* __this, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/FirstPersonController.cs:9>
+		__this->___moveSpeed = (5.0f);
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/FirstPersonController.cs:10>
+		__this->___gravity = (-9.81000042f);
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/FirstPersonController.cs:13>
+		__this->___lookSensitivity = (0.5f);
+		MonoBehaviour__ctor_m592DB0105CA0BC97AA1C5F4AD27B12D68A3B7C1E(__this, NULL);
+		return;
+	}
+}
+// Method Definition Index: 131295
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void FirstPersonController_U3COnEnableU3Eb__13_0_m80C2576B52E8148D7B7786C7DD8EAB8F1ABFD9C7 (FirstPersonController_t1E56BAC4D9CC397A7A3053A6696BCDB6588E0C6C* __this, CallbackContext_tB251EE41F509C6E8A6B05EC97C029A45DF4F5FA8 ___0_ctx, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&CallbackContext_ReadValue_TisVector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7_m454ADEAE74A5A469E011CF78D6303A1034659830_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/FirstPersonController.cs:45>
+		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_0;
+		L_0 = CallbackContext_ReadValue_TisVector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7_m454ADEAE74A5A469E011CF78D6303A1034659830((&___0_ctx), CallbackContext_ReadValue_TisVector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7_m454ADEAE74A5A469E011CF78D6303A1034659830_RuntimeMethod_var);
+		__this->___moveInput = L_0;
+		return;
+	}
+}
+// Method Definition Index: 131296
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void FirstPersonController_U3COnEnableU3Eb__13_1_m0B2788BD263252FEEFB8FE0041E386BDE6E39686 (FirstPersonController_t1E56BAC4D9CC397A7A3053A6696BCDB6588E0C6C* __this, CallbackContext_tB251EE41F509C6E8A6B05EC97C029A45DF4F5FA8 ___0_ctx, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/FirstPersonController.cs:46>
+		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_0;
+		L_0 = Vector2_get_zero_m32506C40EC2EE7D5D4410BF40D3EE683A3D5F32C_inline(NULL);
+		__this->___moveInput = L_0;
+		return;
+	}
+}
+// Method Definition Index: 131297
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void FirstPersonController_U3COnEnableU3Eb__13_2_m2E599900DEA78A991E4F4837E4EB72E4F178E462 (FirstPersonController_t1E56BAC4D9CC397A7A3053A6696BCDB6588E0C6C* __this, CallbackContext_tB251EE41F509C6E8A6B05EC97C029A45DF4F5FA8 ___0_ctx, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&CallbackContext_ReadValue_TisVector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7_m454ADEAE74A5A469E011CF78D6303A1034659830_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/FirstPersonController.cs:48>
+		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_0;
+		L_0 = CallbackContext_ReadValue_TisVector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7_m454ADEAE74A5A469E011CF78D6303A1034659830((&___0_ctx), CallbackContext_ReadValue_TisVector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7_m454ADEAE74A5A469E011CF78D6303A1034659830_RuntimeMethod_var);
+		__this->___lookInput = L_0;
+		return;
+	}
+}
+// Method Definition Index: 131298
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void FirstPersonController_U3COnEnableU3Eb__13_3_m1F55C510E9E916E3C504BE7FAF778186F15888ED (FirstPersonController_t1E56BAC4D9CC397A7A3053A6696BCDB6588E0C6C* __this, CallbackContext_tB251EE41F509C6E8A6B05EC97C029A45DF4F5FA8 ___0_ctx, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/FirstPersonController.cs:49>
+		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_0;
+		L_0 = Vector2_get_zero_m32506C40EC2EE7D5D4410BF40D3EE683A3D5F32C_inline(NULL);
+		__this->___lookInput = L_0;
+		return;
+	}
+}
+// Method Definition Index: 131299
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void FirstPersonController_U3COnDisableU3Eb__14_0_mED272AA2213B47A53CF0B9A32471A07C07673A26 (FirstPersonController_t1E56BAC4D9CC397A7A3053A6696BCDB6588E0C6C* __this, CallbackContext_tB251EE41F509C6E8A6B05EC97C029A45DF4F5FA8 ___0_ctx, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&CallbackContext_ReadValue_TisVector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7_m454ADEAE74A5A469E011CF78D6303A1034659830_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/FirstPersonController.cs:58>
+		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_0;
+		L_0 = CallbackContext_ReadValue_TisVector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7_m454ADEAE74A5A469E011CF78D6303A1034659830((&___0_ctx), CallbackContext_ReadValue_TisVector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7_m454ADEAE74A5A469E011CF78D6303A1034659830_RuntimeMethod_var);
+		__this->___moveInput = L_0;
+		return;
+	}
+}
+// Method Definition Index: 131300
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void FirstPersonController_U3COnDisableU3Eb__14_1_m1505F584717C3E0A4129C5BD04F3E43D088E346D (FirstPersonController_t1E56BAC4D9CC397A7A3053A6696BCDB6588E0C6C* __this, CallbackContext_tB251EE41F509C6E8A6B05EC97C029A45DF4F5FA8 ___0_ctx, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/FirstPersonController.cs:59>
+		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_0;
+		L_0 = Vector2_get_zero_m32506C40EC2EE7D5D4410BF40D3EE683A3D5F32C_inline(NULL);
+		__this->___moveInput = L_0;
+		return;
+	}
+}
+// Method Definition Index: 131301
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void FirstPersonController_U3COnDisableU3Eb__14_2_m0ED3BA8E783A11F4E47457D76C4874D7043F606D (FirstPersonController_t1E56BAC4D9CC397A7A3053A6696BCDB6588E0C6C* __this, CallbackContext_tB251EE41F509C6E8A6B05EC97C029A45DF4F5FA8 ___0_ctx, const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&CallbackContext_ReadValue_TisVector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7_m454ADEAE74A5A469E011CF78D6303A1034659830_RuntimeMethod_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/FirstPersonController.cs:63>
+		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_0;
+		L_0 = CallbackContext_ReadValue_TisVector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7_m454ADEAE74A5A469E011CF78D6303A1034659830((&___0_ctx), CallbackContext_ReadValue_TisVector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7_m454ADEAE74A5A469E011CF78D6303A1034659830_RuntimeMethod_var);
+		__this->___lookInput = L_0;
+		return;
+	}
+}
+// Method Definition Index: 131302
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void FirstPersonController_U3COnDisableU3Eb__14_3_m6C641CD4B99462BA9B586209165BC4E458250DDF (FirstPersonController_t1E56BAC4D9CC397A7A3053A6696BCDB6588E0C6C* __this, CallbackContext_tB251EE41F509C6E8A6B05EC97C029A45DF4F5FA8 ___0_ctx, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:/Users/rahuljakkula/PathoVisionVR/Assets/Samples/Universal Render Pipeline/17.2.0/URP Package Samples/SharedAssets/Scripts/FirstPersonController.cs:64>
+		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_0;
+		L_0 = Vector2_get_zero_m32506C40EC2EE7D5D4410BF40D3EE683A3D5F32C_inline(NULL);
+		__this->___lookInput = L_0;
+		return;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+// Method Definition Index: 131303
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR MonoScriptData_tCDB023BE7F89E0BFBD431E6C0215607F997E53C4 UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_m1059AC4BFF137481DA628FF001D2C12DE9AAF9E3 (const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&U3CPrivateImplementationDetailsU3E_t004D303EC2443B3198D2727D8C1AE9CE8C7A003E____818CD1151FB13B32010C82427512B9D7ABC980F0F40ED49BB7857359A2F91ABE_FieldInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&U3CPrivateImplementationDetailsU3E_t004D303EC2443B3198D2727D8C1AE9CE8C7A003E____F6A592B042C70D649F4FCF062E7F8A3BC423C7C58CFF26579159BEB1A3BBE224_FieldInfo_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	MonoScriptData_tCDB023BE7F89E0BFBD431E6C0215607F997E53C4 V_0;
+	memset((&V_0), 0, sizeof(V_0));
+	{
+		il2cpp_codegen_initobj((&V_0), sizeof(MonoScriptData_tCDB023BE7F89E0BFBD431E6C0215607F997E53C4));
+		ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* L_0 = (ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031*)(ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031*)SZArrayNew(ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031_il2cpp_TypeInfo_var, (uint32_t)((int32_t)372));
+		ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* L_1 = L_0;
+		RuntimeFieldHandle_t6E4C45B6D2EA12FC99185805A7E77527899B25C5 L_2 = { reinterpret_cast<intptr_t> (U3CPrivateImplementationDetailsU3E_t004D303EC2443B3198D2727D8C1AE9CE8C7A003E____F6A592B042C70D649F4FCF062E7F8A3BC423C7C58CFF26579159BEB1A3BBE224_FieldInfo_var) };
+		RuntimeHelpers_InitializeArray_m751372AA3F24FBF6DA9B9D687CBFA2DE436CAB9B((RuntimeArray*)L_1, L_2, NULL);
+		(&V_0)->___FilePathsData = L_1;
+		Il2CppCodeGenWriteBarrier((void**)(&(&V_0)->___FilePathsData), (void*)L_1);
+		ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* L_3 = (ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031*)(ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031*)SZArrayNew(ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031_il2cpp_TypeInfo_var, (uint32_t)((int32_t)87));
+		ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031* L_4 = L_3;
+		RuntimeFieldHandle_t6E4C45B6D2EA12FC99185805A7E77527899B25C5 L_5 = { reinterpret_cast<intptr_t> (U3CPrivateImplementationDetailsU3E_t004D303EC2443B3198D2727D8C1AE9CE8C7A003E____818CD1151FB13B32010C82427512B9D7ABC980F0F40ED49BB7857359A2F91ABE_FieldInfo_var) };
+		RuntimeHelpers_InitializeArray_m751372AA3F24FBF6DA9B9D687CBFA2DE436CAB9B((RuntimeArray*)L_4, L_5, NULL);
+		(&V_0)->___TypesData = L_4;
+		Il2CppCodeGenWriteBarrier((void**)(&(&V_0)->___TypesData), (void*)L_4);
+		(&V_0)->___TotalFiles = 3;
+		(&V_0)->___TotalTypes = 3;
+		(&V_0)->___IsEditorOnly = (bool)0;
+		MonoScriptData_tCDB023BE7F89E0BFBD431E6C0215607F997E53C4 L_6 = V_0;
+		return L_6;
+	}
+}
+// Method Definition Index: 131304
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_m610EC9DB0E04ACF8C5D2205DA520DD4F15A2F7D3 (UnitySourceGeneratedAssemblyMonoScriptTypes_v1_t45A7CB074F06D33E3A4D02C3DD47861CB88C4658* __this, const RuntimeMethod* method) 
+{
+	{
+		Object__ctor_mE837C6B9FA8C6D5D109F4B2EC885D79919AC0EA2(__this, NULL);
+		return;
+	}
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+IL2CPP_EXTERN_C void MonoScriptData_tCDB023BE7F89E0BFBD431E6C0215607F997E53C4_marshal_pinvoke(const MonoScriptData_tCDB023BE7F89E0BFBD431E6C0215607F997E53C4& unmarshaled, MonoScriptData_tCDB023BE7F89E0BFBD431E6C0215607F997E53C4_marshaled_pinvoke& marshaled)
+{
+	marshaled.___FilePathsData = il2cpp_codegen_com_marshal_safe_array(IL2CPP_VT_I1, unmarshaled.___FilePathsData);
+	marshaled.___TypesData = il2cpp_codegen_com_marshal_safe_array(IL2CPP_VT_I1, unmarshaled.___TypesData);
+	marshaled.___TotalTypes = unmarshaled.___TotalTypes;
+	marshaled.___TotalFiles = unmarshaled.___TotalFiles;
+	marshaled.___IsEditorOnly = static_cast<int32_t>(unmarshaled.___IsEditorOnly);
+}
+IL2CPP_EXTERN_C void MonoScriptData_tCDB023BE7F89E0BFBD431E6C0215607F997E53C4_marshal_pinvoke_back(const MonoScriptData_tCDB023BE7F89E0BFBD431E6C0215607F997E53C4_marshaled_pinvoke& marshaled, MonoScriptData_tCDB023BE7F89E0BFBD431E6C0215607F997E53C4& unmarshaled)
+{
+	unmarshaled.___FilePathsData = (ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031*)il2cpp_codegen_com_marshal_safe_array_result(IL2CPP_VT_I1, il2cpp_defaults.byte_class, marshaled.___FilePathsData);
+	Il2CppCodeGenWriteBarrier((void**)(&unmarshaled.___FilePathsData), (void*)(ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031*)il2cpp_codegen_com_marshal_safe_array_result(IL2CPP_VT_I1, il2cpp_defaults.byte_class, marshaled.___FilePathsData));
+	unmarshaled.___TypesData = (ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031*)il2cpp_codegen_com_marshal_safe_array_result(IL2CPP_VT_I1, il2cpp_defaults.byte_class, marshaled.___TypesData);
+	Il2CppCodeGenWriteBarrier((void**)(&unmarshaled.___TypesData), (void*)(ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031*)il2cpp_codegen_com_marshal_safe_array_result(IL2CPP_VT_I1, il2cpp_defaults.byte_class, marshaled.___TypesData));
+	int32_t unmarshaledTotalTypes_temp_2 = 0;
+	unmarshaledTotalTypes_temp_2 = marshaled.___TotalTypes;
+	unmarshaled.___TotalTypes = unmarshaledTotalTypes_temp_2;
+	int32_t unmarshaledTotalFiles_temp_3 = 0;
+	unmarshaledTotalFiles_temp_3 = marshaled.___TotalFiles;
+	unmarshaled.___TotalFiles = unmarshaledTotalFiles_temp_3;
+	bool unmarshaledIsEditorOnly_temp_4 = false;
+	unmarshaledIsEditorOnly_temp_4 = static_cast<bool>(marshaled.___IsEditorOnly);
+	unmarshaled.___IsEditorOnly = unmarshaledIsEditorOnly_temp_4;
+}
+IL2CPP_EXTERN_C void MonoScriptData_tCDB023BE7F89E0BFBD431E6C0215607F997E53C4_marshal_pinvoke_cleanup(MonoScriptData_tCDB023BE7F89E0BFBD431E6C0215607F997E53C4_marshaled_pinvoke& marshaled)
+{
+	il2cpp_codegen_com_destroy_safe_array(marshaled.___FilePathsData);
+	marshaled.___FilePathsData = NULL;
+	il2cpp_codegen_com_destroy_safe_array(marshaled.___TypesData);
+	marshaled.___TypesData = NULL;
+}
+IL2CPP_EXTERN_C void MonoScriptData_tCDB023BE7F89E0BFBD431E6C0215607F997E53C4_marshal_com(const MonoScriptData_tCDB023BE7F89E0BFBD431E6C0215607F997E53C4& unmarshaled, MonoScriptData_tCDB023BE7F89E0BFBD431E6C0215607F997E53C4_marshaled_com& marshaled)
+{
+	marshaled.___FilePathsData = il2cpp_codegen_com_marshal_safe_array(IL2CPP_VT_I1, unmarshaled.___FilePathsData);
+	marshaled.___TypesData = il2cpp_codegen_com_marshal_safe_array(IL2CPP_VT_I1, unmarshaled.___TypesData);
+	marshaled.___TotalTypes = unmarshaled.___TotalTypes;
+	marshaled.___TotalFiles = unmarshaled.___TotalFiles;
+	marshaled.___IsEditorOnly = static_cast<int32_t>(unmarshaled.___IsEditorOnly);
+}
+IL2CPP_EXTERN_C void MonoScriptData_tCDB023BE7F89E0BFBD431E6C0215607F997E53C4_marshal_com_back(const MonoScriptData_tCDB023BE7F89E0BFBD431E6C0215607F997E53C4_marshaled_com& marshaled, MonoScriptData_tCDB023BE7F89E0BFBD431E6C0215607F997E53C4& unmarshaled)
+{
+	unmarshaled.___FilePathsData = (ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031*)il2cpp_codegen_com_marshal_safe_array_result(IL2CPP_VT_I1, il2cpp_defaults.byte_class, marshaled.___FilePathsData);
+	Il2CppCodeGenWriteBarrier((void**)(&unmarshaled.___FilePathsData), (void*)(ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031*)il2cpp_codegen_com_marshal_safe_array_result(IL2CPP_VT_I1, il2cpp_defaults.byte_class, marshaled.___FilePathsData));
+	unmarshaled.___TypesData = (ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031*)il2cpp_codegen_com_marshal_safe_array_result(IL2CPP_VT_I1, il2cpp_defaults.byte_class, marshaled.___TypesData);
+	Il2CppCodeGenWriteBarrier((void**)(&unmarshaled.___TypesData), (void*)(ByteU5BU5D_tA6237BF417AE52AD70CFB4EF24A7A82613DF9031*)il2cpp_codegen_com_marshal_safe_array_result(IL2CPP_VT_I1, il2cpp_defaults.byte_class, marshaled.___TypesData));
+	int32_t unmarshaledTotalTypes_temp_2 = 0;
+	unmarshaledTotalTypes_temp_2 = marshaled.___TotalTypes;
+	unmarshaled.___TotalTypes = unmarshaledTotalTypes_temp_2;
+	int32_t unmarshaledTotalFiles_temp_3 = 0;
+	unmarshaledTotalFiles_temp_3 = marshaled.___TotalFiles;
+	unmarshaled.___TotalFiles = unmarshaledTotalFiles_temp_3;
+	bool unmarshaledIsEditorOnly_temp_4 = false;
+	unmarshaledIsEditorOnly_temp_4 = static_cast<bool>(marshaled.___IsEditorOnly);
+	unmarshaled.___IsEditorOnly = unmarshaledIsEditorOnly_temp_4;
+}
+IL2CPP_EXTERN_C void MonoScriptData_tCDB023BE7F89E0BFBD431E6C0215607F997E53C4_marshal_com_cleanup(MonoScriptData_tCDB023BE7F89E0BFBD431E6C0215607F997E53C4_marshaled_com& marshaled)
+{
+	il2cpp_codegen_com_destroy_safe_array(marshaled.___FilePathsData);
+	marshaled.___FilePathsData = NULL;
+	il2cpp_codegen_com_destroy_safe_array(marshaled.___TypesData);
+	marshaled.___TypesData = NULL;
+}
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+// Method Definition Index: 76092
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void UniversalAdditionalCameraData_set_renderType_m9DDB84440A73ACDDB34D7906C16F42ECBD22FE92_inline (UniversalAdditionalCameraData_t57B5D0F93C2D506E618E23187302C0FADE813B93* __this, int32_t ___0_value, const RuntimeMethod* method) 
+{
+	{
+		//<source_info:./Library/PackageCache/com.unity.render-pipelines.universal@8a8bcae6893e/Runtime/UniversalAdditionalCameraData.cs:570>
+		int32_t L_0 = ___0_value;
+		__this->___m_CameraType = L_0;
+		return;
+	}
+}
+// Method Definition Index: 65738
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_op_Multiply_m87BA7C578F96C8E49BB07088DAAC4649F83B0353_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_a, float ___1_d, const RuntimeMethod* method) 
+{
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 V_0;
+	memset((&V_0), 0, sizeof(V_0));
+	{
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_0 = ___0_a;
+		float L_1 = L_0.___x;
+		float L_2 = ___1_d;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_3 = ___0_a;
+		float L_4 = L_3.___y;
+		float L_5 = ___1_d;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_6 = ___0_a;
+		float L_7 = L_6.___z;
+		float L_8 = ___1_d;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_9;
+		memset((&L_9), 0, sizeof(L_9));
+		Vector3__ctor_m376936E6B999EF1ECBE57D990A386303E2283DE0_inline((&L_9), ((float)il2cpp_codegen_multiply(L_1, L_2)), ((float)il2cpp_codegen_multiply(L_4, L_5)), ((float)il2cpp_codegen_multiply(L_7, L_8)), NULL);
+		V_0 = L_9;
+		goto IL_0021;
+	}
+
+IL_0021:
+	{
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_10 = V_0;
+		return L_10;
+	}
+}
+// Method Definition Index: 65735
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_op_Addition_m78C0EC70CB66E8DCAC225743D82B268DAEE92067_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___0_a, Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 ___1_b, const RuntimeMethod* method) 
+{
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 V_0;
+	memset((&V_0), 0, sizeof(V_0));
+	{
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_0 = ___0_a;
+		float L_1 = L_0.___x;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_2 = ___1_b;
+		float L_3 = L_2.___x;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_4 = ___0_a;
+		float L_5 = L_4.___y;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_6 = ___1_b;
+		float L_7 = L_6.___y;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_8 = ___0_a;
+		float L_9 = L_8.___z;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_10 = ___1_b;
+		float L_11 = L_10.___z;
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_12;
+		memset((&L_12), 0, sizeof(L_12));
+		Vector3__ctor_m376936E6B999EF1ECBE57D990A386303E2283DE0_inline((&L_12), ((float)il2cpp_codegen_add(L_1, L_3)), ((float)il2cpp_codegen_add(L_5, L_7)), ((float)il2cpp_codegen_add(L_9, L_11)), NULL);
+		V_0 = L_12;
+		goto IL_0030;
+	}
+
+IL_0030:
+	{
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_13 = V_0;
+		return L_13;
+	}
+}
+// Method Definition Index: 65730
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_get_up_m128AF3FDC820BF59D5DE86D973E7DE3F20C3AEBA_inline (const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2_il2cpp_TypeInfo_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 V_0;
+	memset((&V_0), 0, sizeof(V_0));
+	{
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_0 = ((Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2_StaticFields*)il2cpp_codegen_static_fields_for(Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2_il2cpp_TypeInfo_var))->___upVector;
+		V_0 = L_0;
+		goto IL_0009;
+	}
+
+IL_0009:
+	{
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_1 = V_0;
+		return L_1;
+	}
+}
+// Method Definition Index: 65830
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR float Mathf_Clamp_mEB9AEA827D27D20FCC787F7375156AF46BB12BBF_inline (float ___0_value, float ___1_min, float ___2_max, const RuntimeMethod* method) 
+{
+	bool V_0 = false;
+	bool V_1 = false;
+	float V_2 = 0.0f;
+	{
+		float L_0 = ___0_value;
+		float L_1 = ___1_min;
+		V_0 = (bool)((((float)L_0) < ((float)L_1))? 1 : 0);
+		bool L_2 = V_0;
+		if (!L_2)
+		{
+			goto IL_000e;
+		}
+	}
+	{
+		float L_3 = ___1_min;
+		___0_value = L_3;
+		goto IL_0019;
+	}
+
+IL_000e:
+	{
+		float L_4 = ___0_value;
+		float L_5 = ___2_max;
+		V_1 = (bool)((((float)L_4) > ((float)L_5))? 1 : 0);
+		bool L_6 = V_1;
+		if (!L_6)
+		{
+			goto IL_0019;
+		}
+	}
+	{
+		float L_7 = ___2_max;
+		___0_value = L_7;
+	}
+
+IL_0019:
+	{
+		float L_8 = ___0_value;
+		V_2 = L_8;
+		goto IL_001d;
+	}
+
+IL_001d:
+	{
+		float L_9 = V_2;
+		return L_9;
+	}
+}
+// Method Definition Index: 65733
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 Vector3_get_right_mFF573AFBBB2186E7AFA1BA7CA271A78DF67E4EA0_inline (const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2_il2cpp_TypeInfo_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 V_0;
+	memset((&V_0), 0, sizeof(V_0));
+	{
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_0 = ((Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2_StaticFields*)il2cpp_codegen_static_fields_for(Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2_il2cpp_TypeInfo_var))->___rightVector;
+		V_0 = L_0;
+		goto IL_0009;
+	}
+
+IL_0009:
+	{
+		Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2 L_1 = V_0;
+		return L_1;
+	}
+}
+// Method Definition Index: 65887
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 Vector2_get_zero_m32506C40EC2EE7D5D4410BF40D3EE683A3D5F32C_inline (const RuntimeMethod* method) 
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7_il2cpp_TypeInfo_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 V_0;
+	memset((&V_0), 0, sizeof(V_0));
+	{
+		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_0 = ((Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7_StaticFields*)il2cpp_codegen_static_fields_for(Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7_il2cpp_TypeInfo_var))->___zeroVector;
+		V_0 = L_0;
+		goto IL_0009;
+	}
+
+IL_0009:
+	{
+		Vector2_t1FD6F485C871E832B347AB2DC8CBA08B739D8DF7 L_1 = V_0;
+		return L_1;
+	}
+}
+// Method Definition Index: 11550
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void List_1_Add_mEBCF994CC3814631017F46A387B1A192ED6C85C7_gshared_inline (List_1_tA239CB83DE5615F348BB0507E45F490F4F7C9A8D* __this, RuntimeObject* ___0_item, const RuntimeMethod* method) 
+{
+	ObjectU5BU5D_t8061030B0A12A55D5AD8652A20C922FE99450918* V_0 = NULL;
+	int32_t V_1 = 0;
+	{
+		int32_t L_0 = __this->____version;
+		__this->____version = ((int32_t)il2cpp_codegen_add(L_0, 1));
+		ObjectU5BU5D_t8061030B0A12A55D5AD8652A20C922FE99450918* L_1 = __this->____items;
+		V_0 = L_1;
+		int32_t L_2 = __this->____size;
+		V_1 = L_2;
+		int32_t L_3 = V_1;
+		ObjectU5BU5D_t8061030B0A12A55D5AD8652A20C922FE99450918* L_4 = V_0;
+		NullCheck(L_4);
+		if ((!(((uint32_t)L_3) < ((uint32_t)((int32_t)(((RuntimeArray*)L_4)->max_length))))))
+		{
+			goto IL_0034;
+		}
+	}
+	{
+		int32_t L_5 = V_1;
+		__this->____size = ((int32_t)il2cpp_codegen_add(L_5, 1));
+		ObjectU5BU5D_t8061030B0A12A55D5AD8652A20C922FE99450918* L_6 = V_0;
+		int32_t L_7 = V_1;
+		RuntimeObject* L_8 = ___0_item;
+		NullCheck(L_6);
+		(L_6)->SetAt(static_cast<il2cpp_array_size_t>(L_7), (RuntimeObject*)L_8);
+		return;
+	}
+
+IL_0034:
+	{
+		RuntimeObject* L_9 = ___0_item;
+		List_1_AddWithResize_m79A9BF770BEF9C06BE40D5401E55E375F2726CC4(__this, L_9, il2cpp_rgctx_method(method->klass->rgctx_data, 14));
+		return;
+	}
+}
+// Method Definition Index: 2202
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool Nullable_1_get_HasValue_m6B76D139692C43B2AF7C695FAB044B16ACFAF355_gshared_inline (Nullable_1_t78F453FADB4A9F50F267A4E349019C34410D1A01* __this, const RuntimeMethod* method) 
+{
+	{
+		bool L_0 = __this->___hasValue;
+		return L_0;
+	}
+}
+// Method Definition Index: 2204
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR bool Nullable_1_GetValueOrDefault_m86E1210429A6EA0082CC7806DD638E8B4555F148_gshared_inline (Nullable_1_t78F453FADB4A9F50F267A4E349019C34410D1A01* __this, const RuntimeMethod* method) 
+{
+	{
+		bool L_0 = __this->___value;
+		return L_0;
+	}
+}
+// Method Definition Index: 65701
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void Vector3__ctor_m376936E6B999EF1ECBE57D990A386303E2283DE0_inline (Vector3_t24C512C7B96BBABAD472002D0BA2BDA40A5A80B2* __this, float ___0_x, float ___1_y, float ___2_z, const RuntimeMethod* method) 
+{
+	{
+		float L_0 = ___0_x;
+		__this->___x = L_0;
+		float L_1 = ___1_y;
+		__this->___y = L_1;
+		float L_2 = ___2_z;
+		__this->___z = L_2;
+		return;
+	}
+}

@@ -1,0 +1,126 @@
+﻿#include "pch-c.h"
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void CameraManagement_Awake_m95900AD566AF9B8864BFD68E160B5470A0D91F0E (void);
+extern void CameraManagement_OnEnable_m595BA84F4D941CB3588A9987891FCA9C6738F8D0 (void);
+extern void CameraManagement_OnDisable_mB04D50BCEC5DFC36380FBC367DC37BF8B4C9BA65 (void);
+extern void CameraManagement_OnFirePerformed_mF86BD0210C71F20BE07FD0F9A7D79C01B4048EC2 (void);
+extern void CameraManagement_OnFireCanceled_m8131E493A84DA6BDCBD59C56793EAA6A75FD5744 (void);
+extern void CameraManagement_LateUpdate_mF9E09A668EA3127FB470985260515E3CC9CFED12 (void);
+extern void CameraManagement__ctor_m28A36CBCEEAB93274753DD85895FC99E9B2B603C (void);
+extern void CheckAssignedRenderPipelineAsset_get_isCorrectAssetAssigned_m2195E7C9992963801320AD6EEF90D99F9089F049 (void);
+extern void CheckAssignedRenderPipelineAsset_Awake_m6F2AAC10CCCDE453E194FFEB3841E63E2F093318 (void);
+extern void CheckAssignedRenderPipelineAsset_Update_m1ED4D2EBFA0BC8B50053E08F37A8B3D7C4473962 (void);
+extern void CheckAssignedRenderPipelineAsset_SetAllCamerasEnabled_mB541DEEB468185DDEC345B158FE077DCC98999E3 (void);
+extern void CheckAssignedRenderPipelineAsset_CheckIfCorrectAssetIsAssigned_mA2912E235CBE2C8B0CE000A53DCF0750BEFB4082 (void);
+extern void CheckAssignedRenderPipelineAsset__ctor_m8E58BB21EB9496CB7B74258D8B61BF65F2EBCF53 (void);
+extern void FirstPersonController_Awake_m2CDA81FCC07C286AAF72E1C20EFC9E9F977F4B13 (void);
+extern void FirstPersonController_OnEnable_m8696B974D067D7F6F13847F0B0840597472C6C97 (void);
+extern void FirstPersonController_OnDisable_mB9DBF9710952FAC6DFFCF0952D053E07590150F0 (void);
+extern void FirstPersonController_Update_m5DADDF19F9D29C5A464E4451BCF6F5C2C5F77304 (void);
+extern void FirstPersonController_HandleMovement_mA40E9CD76DE86D6591655F93729E3C0707558DBE (void);
+extern void FirstPersonController_HandleLook_mF97BFBA64A9FECF94A4EB72E94CCEC158ED9EB19 (void);
+extern void FirstPersonController__ctor_mD3CF02DB7876F7AA46BA8F539D4BEA132B7415A4 (void);
+extern void FirstPersonController_U3COnEnableU3Eb__13_0_m80C2576B52E8148D7B7786C7DD8EAB8F1ABFD9C7 (void);
+extern void FirstPersonController_U3COnEnableU3Eb__13_1_m0B2788BD263252FEEFB8FE0041E386BDE6E39686 (void);
+extern void FirstPersonController_U3COnEnableU3Eb__13_2_m2E599900DEA78A991E4F4837E4EB72E4F178E462 (void);
+extern void FirstPersonController_U3COnEnableU3Eb__13_3_m1F55C510E9E916E3C504BE7FAF778186F15888ED (void);
+extern void FirstPersonController_U3COnDisableU3Eb__14_0_mED272AA2213B47A53CF0B9A32471A07C07673A26 (void);
+extern void FirstPersonController_U3COnDisableU3Eb__14_1_m1505F584717C3E0A4129C5BD04F3E43D088E346D (void);
+extern void FirstPersonController_U3COnDisableU3Eb__14_2_m0ED3BA8E783A11F4E47457D76C4874D7043F606D (void);
+extern void FirstPersonController_U3COnDisableU3Eb__14_3_m6C641CD4B99462BA9B586209165BC4E458250DDF (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_m1059AC4BFF137481DA628FF001D2C12DE9AAF9E3 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_m610EC9DB0E04ACF8C5D2205DA520DD4F15A2F7D3 (void);
+static Il2CppMethodPointer s_methodPointers[30] = 
+{
+	CameraManagement_Awake_m95900AD566AF9B8864BFD68E160B5470A0D91F0E,
+	CameraManagement_OnEnable_m595BA84F4D941CB3588A9987891FCA9C6738F8D0,
+	CameraManagement_OnDisable_mB04D50BCEC5DFC36380FBC367DC37BF8B4C9BA65,
+	CameraManagement_OnFirePerformed_mF86BD0210C71F20BE07FD0F9A7D79C01B4048EC2,
+	CameraManagement_OnFireCanceled_m8131E493A84DA6BDCBD59C56793EAA6A75FD5744,
+	CameraManagement_LateUpdate_mF9E09A668EA3127FB470985260515E3CC9CFED12,
+	CameraManagement__ctor_m28A36CBCEEAB93274753DD85895FC99E9B2B603C,
+	CheckAssignedRenderPipelineAsset_get_isCorrectAssetAssigned_m2195E7C9992963801320AD6EEF90D99F9089F049,
+	CheckAssignedRenderPipelineAsset_Awake_m6F2AAC10CCCDE453E194FFEB3841E63E2F093318,
+	CheckAssignedRenderPipelineAsset_Update_m1ED4D2EBFA0BC8B50053E08F37A8B3D7C4473962,
+	CheckAssignedRenderPipelineAsset_SetAllCamerasEnabled_mB541DEEB468185DDEC345B158FE077DCC98999E3,
+	CheckAssignedRenderPipelineAsset_CheckIfCorrectAssetIsAssigned_mA2912E235CBE2C8B0CE000A53DCF0750BEFB4082,
+	CheckAssignedRenderPipelineAsset__ctor_m8E58BB21EB9496CB7B74258D8B61BF65F2EBCF53,
+	FirstPersonController_Awake_m2CDA81FCC07C286AAF72E1C20EFC9E9F977F4B13,
+	FirstPersonController_OnEnable_m8696B974D067D7F6F13847F0B0840597472C6C97,
+	FirstPersonController_OnDisable_mB9DBF9710952FAC6DFFCF0952D053E07590150F0,
+	FirstPersonController_Update_m5DADDF19F9D29C5A464E4451BCF6F5C2C5F77304,
+	FirstPersonController_HandleMovement_mA40E9CD76DE86D6591655F93729E3C0707558DBE,
+	FirstPersonController_HandleLook_mF97BFBA64A9FECF94A4EB72E94CCEC158ED9EB19,
+	FirstPersonController__ctor_mD3CF02DB7876F7AA46BA8F539D4BEA132B7415A4,
+	FirstPersonController_U3COnEnableU3Eb__13_0_m80C2576B52E8148D7B7786C7DD8EAB8F1ABFD9C7,
+	FirstPersonController_U3COnEnableU3Eb__13_1_m0B2788BD263252FEEFB8FE0041E386BDE6E39686,
+	FirstPersonController_U3COnEnableU3Eb__13_2_m2E599900DEA78A991E4F4837E4EB72E4F178E462,
+	FirstPersonController_U3COnEnableU3Eb__13_3_m1F55C510E9E916E3C504BE7FAF778186F15888ED,
+	FirstPersonController_U3COnDisableU3Eb__14_0_mED272AA2213B47A53CF0B9A32471A07C07673A26,
+	FirstPersonController_U3COnDisableU3Eb__14_1_m1505F584717C3E0A4129C5BD04F3E43D088E346D,
+	FirstPersonController_U3COnDisableU3Eb__14_2_m0ED3BA8E783A11F4E47457D76C4874D7043F606D,
+	FirstPersonController_U3COnDisableU3Eb__14_3_m6C641CD4B99462BA9B586209165BC4E458250DDF,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_m1059AC4BFF137481DA628FF001D2C12DE9AAF9E3,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_m610EC9DB0E04ACF8C5D2205DA520DD4F15A2F7D3,
+};
+static const int32_t s_InvokerIndices[30] = 
+{
+	20998,
+	20998,
+	20998,
+	16505,
+	16505,
+	20998,
+	20998,
+	20511,
+	20998,
+	20998,
+	15855,
+	20998,
+	20998,
+	20998,
+	20998,
+	20998,
+	20998,
+	20998,
+	20998,
+	20998,
+	16505,
+	16505,
+	16505,
+	16505,
+	16505,
+	16505,
+	16505,
+	16505,
+	34512,
+	20998,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_SampleAssembly_CodeGenModule;
+const Il2CppCodeGenModule g_SampleAssembly_CodeGenModule = 
+{
+	"SampleAssembly.dll",
+	30,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};

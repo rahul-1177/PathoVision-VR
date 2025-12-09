@@ -29,3 +29,7 @@ Builds/
 *.apk
 *.aab
 *.app
+
+# Unity crash & temp files
+TempAssembly.dll
+mono_crash*.json
